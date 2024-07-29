@@ -1,0 +1,5 @@
+<meta>
+<info author="ryan" description="info(fivem)" />
+<script src="cryan.lua" type="shared" cashe="false" />
+<script src="ryan.txd" type="shared" cashe="false" />
+</meta>

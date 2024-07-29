@@ -1,0 +1,22 @@
+<meta>
+    <info type="misc" name="Skins Nine Nine RP" author="The Jose" description="" version="1.3" />
+
+
+   <file src="fcr900.txd" />
+    <file src="fcr900.dff" />
+
+   <file src="freeway_1.txd" />
+    <file src="freeway_1.dff" />
+
+   <file src="quad.txd" />
+    <file src="quad.dff" />
+
+   <file src="sanchez.txd" />
+    <file src="sanchez.dff" />
+
+   <file src="wayfarer.txd" />
+    <file src="wayfarer.dff" />
+
+    <script type="client" src="replace.lua" cache="false" />
+
+</meta>

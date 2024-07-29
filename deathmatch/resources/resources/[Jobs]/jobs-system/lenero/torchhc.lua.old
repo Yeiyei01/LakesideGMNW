@@ -1,0 +1,98 @@
+sx,sy = guiGetScreenSize()
+lp = getLocalPlayer()
+torchertrpermissie1window = guiCreateWindow(0.3*sx,0.3*sy,0.3*sx,0.3*sy,"Antorchas",false)
+torchertrpermissie1memo = guiCreateMemo(0.01,0.1,0.7,0.8,"Hola, necesito que coloques antorchas para que los leñeros puedan ver durante la noche, podrias?",true,torchertrpermissie1window)
+guiMemoSetReadOnly(romemo, true)
+torchertrpermissie1takebutton = guiCreateButton(0.73,0.4,0.3,0.17,"Si (DOB CLICK)",true,torchertrpermissie1window)
+torchertrpermissie1declinebutton = guiCreateButton(0.73,0.2,0.3,0.17,"Cerrar",true,torchertrpermissie1window)
+guiSetVisible(torchertrpermissie1window,false)
+
+local blip = createBlip(-436.6689453125, -64.7529296875, 58.875, 56, 0, 0, 0, 0, 0, 0, 250)
+outputDebugString("Blip visible distance: "..getBlipVisibleDistance(blip)) --50
+setBlipVisibleDistance(blip, 150)
+outputDebugString("Blip visible distance: "..getBlipVisibleDistance(blip)) --60
+
+
+torchertrpermissie1marker = createMarker(-436.6689453125, -64.7529296875, 58.875,"corona",1.5,255,0,0)
+torchertrpermissie1theMarker = createMarker(-436.6689453125, -64.7529296875, 58.875,"corona",2.5,255,0,0)
+addEventHandler('onClientRender', root,
+	function()
+		local px, py, pz = getElementPosition(getLocalPlayer())
+		if getDistanceBetweenPoints2D(20000,-20000, px, py) <= 17 then
+			local x, y = getScreenFromWorldPosition(20000,-20000)
+			if x and y then
+				dxDrawFramedText("torchertrpermissie1mission", x, y, x ,y,tocolor(255,255,255,255),2.0,"default","center","center",false,false,false)
+		end
+		end
+		end
+)
+addEventHandler("onClientMarkerHit",torchertrpermissie1marker,function(p) if p == lp and not isPedInVehicle(lp) then guiSetVisible(torchertrpermissie1window,true) showCursor(true) end end)
+
+addEventHandler("onClientGUIClick",torchertrpermissie1window,
+function(b) 
+	if b == "left" then
+		if source == torchertrpermissie1takebutton then 
+			if not getElementData(lp, "torchertrpermissie1") then
+			triggerServerEvent("havetorchertrpermissie1Job",lp)
+			else
+			guiSetVisible(torchertrpermissie1window,false)
+			showCursor(false)
+			triggerServerEvent("torchertrpermissie1Route",root,lp)
+	       theBlip = createBlipAttachedTo(torchertrpermissie1theMarker,59)
+			end
+		elseif source == torchertrpermissie1declinebutton then
+		guiSetVisible(torchertrpermissie1window,false)
+		showCursor(false)
+		end
+	end
+end)
+
+addEvent("torchertrpermissie1Route",true)
+function torchertrpermissie1Route(tab)
+for k,pos in ipairs(tab) do
+if k == 1 then x = pos
+elseif k == 2 then y = pos
+elseif k == 3 then setElementPosition(torchertrpermissie1theMarker,x,y,pos) outputChatBox("sigue #FF0000Marcador ROJO#FFFFFF en tu radar "..getZoneName(x,y,pos,true)..", "..getZoneName(x,y,pos)..".",255,255,255,true) 
+end
+end
+end
+addEventHandler("torchertrpermissie1Route",root,torchertrpermissie1Route)
+
+addEventHandler("onClientMarkerHit",torchertrpermissie1theMarker,
+function(p) if p == lp then
+	if getElementData(lp, "torchertrpermissie1") then
+	setElementPosition(torchertrpermissie1theMarker,-436.6689453125, -64.7529296875, 58.875)
+	amount = math.random(50,90)
+	triggerServerEvent ("givetorchertrpermissie1PlayerSomeMoney", getLocalPlayer(), amount )
+	playSound("https://dl.dropboxusercontent.com/u/237129690/woodct.mp3")
+	outputChatBox("You recieved #00FF00 $"..tostring(amount).."#FFFFFF por colocar una antorcha",255,255,255,true) 
+	setTimer(triggerServerEvent,7000,1,"torchertrpermissie1Route",root,lp)
+
+	setTimer(triggerServerEvent,50,1,"wantedd",root,lp)
+else
+	outputChatBox("Only torchertrpermissie1s.",255,0,0,true) 
+end
+end
+end
+)
+
+function chetorchertrok()
+            if isElement (torchertrpermissie1theMarker) then
+                setElementPosition(torchertrpermissie1theMarker,3725, -2079, 1370112.375)
+            end
+            if isElement (theBlip) then
+                destroyElement(theBlip)
+         end
+        end
+addEvent("chetorchertrok",true)
+addEventHandler("chetorchertrok",root,chetorchertrok)
+
+
+
+bunfvsddfny = createPed ( 220, -436.6689453125, -64.7529296875, 58.875 )
+setElementHealth(bunfvsddfny , 1000000000)
+setPedRotation ( bunfvsddfny , 90 )
+setPedAnimation ( bunfvsddfny , "GHANDS", "gsign5", -1)
+setPedFrozen(bunfvsddfny ,true)
+
+torchssd = createObject ( 3461, x, y, z-1, 0, 0, 0 )

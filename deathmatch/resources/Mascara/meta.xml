@@ -1,0 +1,30 @@
+<meta>
+	<info author="VulcaN" version="1.0.0" type="script"/>
+	
+	<include resource="bone_attach"/>
+	
+	<script src="mask_c.luac" type="client" cache="false"/>
+	<script src="mask_s.luac" type="server"/>
+	
+	<file src="icon/criatura.png"/>
+	<file src="icon/hookey.png"/>
+	<file src="icon/mexicana.png"/>
+	<file src="icon/macaco.png"/>
+	<file src="icon/porco.png"/>
+
+	
+
+	<file src="models/macaco.txd"/>
+	<file src="models/macaco.dff"/>
+	<file src="models/porco.txd"/>
+	<file src="models/porco.dff"/>
+	<file src="models/mexicana.txd"/>
+	<file src="models/mexicana.dff"/>
+	<file src="models/hookey.txd"/>
+	<file src="models/hookey.dff"/>
+	<file src="models/criatura.txd"/>
+	<file src="models/criatura.dff"/>
+
+	
+	<min_mta_version server="1.3.0-9.04570" client="1.3.0-9.04570"/>
+</meta>

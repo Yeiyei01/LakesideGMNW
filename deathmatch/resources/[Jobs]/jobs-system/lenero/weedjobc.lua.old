@@ -1,0 +1,100 @@
+sx,sy = guiGetScreenSize()
+lp = getLocalPlayer()
+weedertrpermissie1window = guiCreateWindow(0.3*sx,0.3*sy,0.3*sx,0.3*sy,"Weed farmer",false)
+weedertrpermissie1memo = guiCreateMemo(0.01,0.1,0.7,0.8,"Hello, our last farmer got killed by Scary killer's gang this morning, will you replace him?",true,weedertrpermissie1window)
+guiMemoSetReadOnly(romemo, true)
+weedertrpermissie1takebutton = guiCreateButton(0.73,0.4,0.3,0.17,"Have Job",true,weedertrpermissie1window)
+weedertrpermissie1declinebutton = guiCreateButton(0.73,0.2,0.3,0.17,"Close",true,weedertrpermissie1window)
+guiSetVisible(weedertrpermissie1window,false)
+
+
+weedertrpermissie1marker = createMarker(-1010, -959, 127.9,"corona",1.5,0,255,0)
+weedertrpermissie1theMarker = createMarker(3725, -2079, 1370112.375,"cylinder",1.5,0,255,0)
+addEventHandler('onClientRender', root,
+	function()
+		local px, py, pz = getElementPosition(getLocalPlayer())
+		if getDistanceBetweenPoints2D(20000,-20000, px, py) <= 17 then
+			local x, y = getScreenFromWorldPosition(20000,-20000)
+			if x and y then
+				dxDrawFramedText("weedertrpermissie1mission", x, y, x ,y,tocolor(255,255,255,255),2.0,"default","center","center",false,false,false)
+		end
+		end
+		end
+)
+addEventHandler("onClientMarkerHit",weedertrpermissie1marker,function(p) if p == lp and not isPedInVehicle(lp) then guiSetVisible(weedertrpermissie1window,true) showCursor(true) end end)
+
+addEventHandler("onClientGUIClick",weedertrpermissie1window,
+function(b) 
+	if b == "left" then
+		if source == weedertrpermissie1takebutton then 
+			if not getElementData(lp, "weedertrpermissie1") then
+			triggerServerEvent("haveweedertrpermissie1Job",lp)
+			else
+			guiSetVisible(weedertrpermissie1window,false)
+			showCursor(false)
+			triggerServerEvent("weedertrpermissie1Route",root,lp)
+	       theBlip = createBlipAttachedTo(weedertrpermissie1theMarker,62)
+			end
+		elseif source == weedertrpermissie1declinebutton then
+		guiSetVisible(weedertrpermissie1window,false)
+		showCursor(false)
+		end
+	end
+end)
+
+addEvent("weedertrpermissie1Route",true)
+function weedertrpermissie1Route(tab)
+for k,pos in ipairs(tab) do
+if k == 1 then x = pos
+elseif k == 2 then y = pos
+elseif k == 3 then setElementPosition(weedertrpermissie1theMarker,x,y,pos) outputChatBox("follow the #FF0000GREEN PEOPLE#FFFFFF icon on your radar in "..getZoneName(x,y,pos,true)..", "..getZoneName(x,y,pos)..".",255,255,255,true) 
+end
+end
+end
+addEventHandler("weedertrpermissie1Route",root,weedertrpermissie1Route)
+
+addEventHandler("onClientMarkerHit",weedertrpermissie1theMarker,
+function(p) if p == lp then
+	if getElementData(lp, "weedertrpermissie1") then
+	setElementPosition(weedertrpermissie1theMarker,3725, -2079, 1370112.375)
+	amount = math.random(750,1750)
+	triggerServerEvent ("giveweedertrpermissie1PlayerSomeMoney", getLocalPlayer(), amount )
+	playSound("https://dl.dropboxusercontent.com/u/27831609/songs/weedsound.mp3")
+	outputChatBox("You recieved #00FF00 $"..tostring(amount).."#FFFFFF for planting some weed",255,255,255,true) 
+	setTimer(triggerServerEvent,15000,1,"weedertrpermissie1Route",root,lp)
+	setTimer(triggerServerEvent,15000,1,"frozenend",root,lp)
+	setTimer(triggerServerEvent,50,1,"wantedd",root,lp)
+else
+	outputChatBox("Only weedertrpermissie1s.",255,0,0,true) 
+end
+end
+end
+)
+
+function cheweedertrok()
+            if isElement (weedertrpermissie1theMarker) then
+                setElementPosition(weedertrpermissie1theMarker,3725, -2079, 1370112.375)
+            end
+            if isElement (theBlip) then
+                destroyElement(theBlip)
+         end
+        end
+addEvent("cheweedertrok",true)
+addEventHandler("cheweedertrok",root,cheweedertrok)
+
+bund1ny = createPed ( 56, -1115, -1037, 166.69 )
+setElementHealth(bund1ny , 1000000000)
+setPedRotation ( bund1ny , 70)
+setPedFrozen(bund1ny ,true)
+
+
+bundfny = createPed ( 288, -1010, -960, 129 )
+setElementHealth(bundfny , 1000000000)
+setPedRotation ( bundfny , 90 )
+setPedAnimation ( bundfny , "BEACH", "SitnWait_loop_W", -1)
+setPedFrozen(bundfny ,true)
+
+bundsq1ny = createPed ( 129, -596, 2755, 5062.82 )
+setElementHealth(bundsq1ny , 1000000000)
+setPedRotation ( bundsq1ny , -70)
+setPedFrozen(bundsq1ny ,true)

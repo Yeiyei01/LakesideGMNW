@@ -1,0 +1,41 @@
+<meta>
+    <info type="misc" name="Novas armas" author="Meneses" description="Um belo pack" version="1.0" />
+	<script type="client" src="replace.lua" />
+	
+	<file src="ak47.txd" />
+	<file src="ak47.dff" />
+
+	<file src="colt45.txd" />
+	<file src="colt45.dff" />
+
+	<file src="desert_eagle.txd" />
+	<file src="desert_eagle.dff" />
+
+	<file src="m4.txd" />
+	<file src="m4.dff" />
+
+	<file src="micro_uzi.txd" />
+	<file src="micro_uzi.dff" />
+
+	<file src="mp5lng.txd" />
+	<file src="mp5lng.dff" />
+
+	<file src="sawnoff.txd" />
+	<file src="sawnoff.dff" />
+
+	<file src="shotgspa.txd" />
+	<file src="shotgspa.dff" />
+
+	<file src="shotgun.txd" />
+	<file src="shotgun.dff" />
+
+	<file src="silenced.txd" />
+	<file src="silenced.dff" />
+
+	<file src="sniper.txd" />
+	<file src="sniper.dff" />
+
+	<file src="tec9.txd" />
+	<file src="tec9.dff" />
+	
+</meta>

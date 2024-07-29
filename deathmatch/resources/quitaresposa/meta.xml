@@ -1,0 +1,6 @@
+<meta>
+    <info author="Nachito " name="esposas" description="quitaresposas" version="1.0" type="script" />
+
+	<script src="quitaresp.lua" type="server" />
+	
+</meta>

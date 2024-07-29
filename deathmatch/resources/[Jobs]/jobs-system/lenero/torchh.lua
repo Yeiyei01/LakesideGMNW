@@ -1,0 +1,83 @@
+torchertrpermissie1stations = { 
+
+ { -608.279296875, -95.6083984375, 64.671615600586 },
+ { -525.37890625, -55.900390625, 62.336887359619 },
+ { -523.5087890625, -94.251953125, 62.479396820068 },
+ { -586.1787109375, -173.564453125, 79.447616577148 },
+ { -450.791015625, -47.587890625, 59.704711914062 },
+ { -574.9873046875, -76.4140625, 64.648902893066 }}
+
+ntorchertr = table.maxn(torchertrpermissie1stations)
+
+addEvent("havetorchertrpermissie1Job",true)
+function havetorchertrpermissie1Job()
+setElementData(source,"torchertrpermissie1",true)
+		x,y,z = getPlayerPosition( source )
+		hunter = createVehicle ( 429, x, y, z )
+   setElementData(hunter, "fuel", exports.vehicle_fuel:getMaxFuel(hunter))
+   setElementData(hunter, "battery", 100)
+   setElementData(hunter, "engineCrash", 0)
+   setElementData(hunter, "owner", -1)
+   setElementData(hunter, "faction", -1)
+   setElementData(hunter, "engine", 0)
+   setElementData(hunter, "job", 0)
+		warpPedIntoVehicle(source,hunter)
+end
+addEventHandler("havetorchertrpermissie1Job",root,havetorchertrpermissie1Job)
+
+addEvent("torchertrpermissie1Route",true)
+function torchertrpermissie1Route(source)
+newtorchertr = math.random(1,ntorchertr)
+for itorchertr,pos in ipairs(torchertrpermissie1stations) do
+if itorchertr == newtorchertr then
+triggerClientEvent(source,"torchertrpermissie1Route",root,pos)
+end
+end
+end
+addEventHandler("torchertrpermissie1Route",root,torchertrpermissie1Route)
+
+--function want(source)
+--local want = math.random( 1,2 )
+--if want == 1 then 
+--local wlevel = getPlayerwanteddLevel( source )
+--if wlevel < 6 then
+--setPlayerwanteddLevel(source,wlevel+1 )
+--elseif want == 2 then
+--end
+--end
+--end
+--addEvent("wantedd",true)
+--addEventHandler("wantedd",root,want)
+
+--function wasted()
+--if getElementData(source, "torchertrpermissie1") then
+--setElementData(source,"torchertrpermissie1",false)
+--triggerClientEvent(source,"chetorchertrok",source)
+--else
+--end
+--end
+--addEventHandler ( "onPlayerWasted", getRootElement(), wasted )
+
+
+addEvent( "givetorchertrpermissie1PlayerSomeMoney", true )
+addEventHandler( "givetorchertrpermissie1PlayerSomeMoney", getRootElement(),
+function ( amount )
+    exports.global:giveMoney(source, tonumber(amount))
+x,y,z = getElementPosition( source )
+torchssd = createObject ( 3461, x, y, z-1, 0, 0, 0 )
+		setTimer ( destroyElement, 300000, 1, torchssd )
+
+end
+)
+
+
+
+addEvent( "frozenend", true )
+addEventHandler( "frozenend", getRootElement(),
+function ( )
+ setElementFrozen (source, false)
+end
+)
+
+
+

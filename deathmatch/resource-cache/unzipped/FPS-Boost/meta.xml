@@ -1,0 +1,16 @@
+﻿<meta>
+    <info author="N2QT" type="script" name="fpsincreaser" version="1.0.2" />
+    
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" cache="false" />
+    
+    <!-- Assets -->
+    <file src="assets/invisible.png" />
+    <file src="assets/shader.fx" />
+    <file src="assets/hidden.png" />
+
+    <file src="assets/treeshader.fx" />
+    <file src="assets/alpha.png" />
+    
+    <file src="assets/texreplace.fx" />
+</meta>

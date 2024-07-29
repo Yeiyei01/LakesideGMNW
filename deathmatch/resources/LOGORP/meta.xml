@@ -1,0 +1,5 @@
+<meta>
+	<info author="Dreko" type="script" description="Logo"/>
+    <file src="img/logorp.png" />
+	<script src="client.lua" type="client"/>
+</meta>

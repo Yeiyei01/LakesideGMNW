@@ -1,0 +1,155 @@
+<meta>
+        <info author="Ale" description="Sistema de Trabajos" version="1.0.2" type="misc"/>
+<!--CARNICERO-->
+	<script src="butcher/vz_c.lua" type="client" cache="false"/>
+	<script src="butcher/vz_s.lua" type="server" />
+	
+	<file src="butcher/files/opensans.ttf"/>
+	<file src="butcher/files/OpenSansB.ttf"/>
+	<file src="butcher/files/OpenSansEB.ttf"/>
+	<file src="butcher/files/font.ttf"/>
+	
+	<file src="butcher/machete/machete.txd" cache="false" />
+        <file src="butcher/machete/machete.dff" cache="false" />
+	<file src="butcher/machete/painel.png"></file>
+<!--CARGADOR CAJAS-->
+    <script src="charger/shared.lua" type="shared" cache="false"/>
+    <script src="charger/client.lua" type="client" cache="false"/>
+    <script src="charger/server.lua" type="server"/>
+    <file src="charger/bg.png"/>
+    <file src="charger/bg_notif.png"/>
+    <file src="charger/font.ttf"/>
+    <file src="charger/go.png"/>
+    <file src="charger/go1.png"/>
+    <file src="charger/cancel.png"/>
+    <file src="charger/cancel1.png"/>
+<!--BUZO-->
+	<script src="diver/s.lua" type="server" />
+	<script src="diver/c.lua" type="client" cache="false" />
+
+	<file src="diver/swmyhp2.txd" />
+	<file src="diver/swmyhp2.dff" />
+<!--ELECTRICISTA-->
+    <script src="electrical/client.lua" type="client" cache="false"/>
+    <script src="electrical/server.lua" type="server"/>
+<!--GRANJERO-->
+	<script src="farmer/shared.lua" type="shared" cache="false"/>
+	<script src="farmer/client.lua" type="client" cache="false"/>
+	<script src="farmer/server.lua" type="server"/>
+<!--FUMIGADOR-->
+	<script src="fumigator/pulv-server.lua"/>
+	<script src="fumigator/pulv-client.lua" type="client"/>
+<!--PERROCALENTERO-->
+	<script src="hot-dog/sourceG.lua" type="shared" cache="false"/>
+	<script src="hot-dog/sourceS.lua" type="server"/>
+	<script src="hot-dog/sourceC.lua" type="client" cache="false"/>
+	<script src="hot-dog/alertC.lua" type="client" cache="false"/>
+
+	<file src="hot-dog/files/cup_l_b.png" />
+	<file src="hot-dog/files/cup_l_k.png" />
+	<file src="hot-dog/files/cup_l_liquid.png" />
+	<file src="hot-dog/files/cup_m_b.png" />
+	<file src="hot-dog/files/cup_m_k.png" />
+	<file src="hot-dog/files/cup_m_liquid.png" />
+	<file src="hot-dog/files/cup_s_b.png" />
+	<file src="hot-dog/files/cup_s_k.png" />
+	<file src="hot-dog/files/cup_s_liquid.png" />
+	<file src="hot-dog/files/hotdog1_b.png" />
+	<file src="hot-dog/files/hotdog1_k.png" />
+	<file src="hot-dog/files/hotdog2_b.png" />
+	<file src="hot-dog/files/hotdog2_k.png" />
+	<file src="hot-dog/files/hotdog3_b.png" />
+	<file src="hot-dog/files/hotdog3_k.png" />
+	<file src="hot-dog/files/hotdog4_b.png" />
+	<file src="hot-dog/files/hotdog4_k.png" />
+	<file src="hot-dog/files/hotdog5_b.png" />
+	<file src="hot-dog/files/hotdog5_k.png" />
+	<file src="hot-dog/files/sausage1.png" />
+	<file src="hot-dog/files/sausage2.png" />
+	<file src="hot-dog/files/sausage3.png" />
+	<file src="hot-dog/files/Roboto-Bold.ttf" />
+	<file src="hot-dog/files/Roboto-Regular.ttf" />
+	<file src="hot-dog/files/lunabar.ttf" />
+	<file src="hot-dog/files/order.png" />
+
+	<file src="hot-dog/files/fanta.png" />
+	<file src="hot-dog/files/lipton.png" />
+	<file src="hot-dog/files/cocacola.png" />
+	<file src="hot-dog/files/7up.png" />
+
+	<file src="hot-dog/files/emptycup.mp3" />
+	<file src="hot-dog/files/pourdrink.mp3" />
+
+	<file src="hot-dog/files/error.png" />
+	<file src="hot-dog/files/warning.png" />
+	<file src="hot-dog/files/info.png" />
+
+	<file src="hot-dog/files/error.wav" />
+	<file src="hot-dog/files/bulle.wav" />
+<!--ANTORCHAS-->
+	<!--<script src="lenero/bell.lua" type="server" />
+	<script src="lenero/bellc.lua" type="client" />-->
+
+	<script src="lenero/torchh.lua" type="server" />
+	<script src="lenero/torchhc.lua" type="client" />
+
+	<!--<script src="lenero/weedjob.lua" type="server" />
+	<script src="lenero/weedjobc.lua" type="client" />
+
+	<script src="lenero/summercamphouse.lua" type="client" />
+	<script src="lenero/summercamp.lua" type="client" />-->
+<!--PLANTADOR MARIHUANA-->
+    <script src="marijuana-planter/sScript.lua" type="server"/>
+    <script src="marijuana-planter/edit.lua" type="shared" />
+
+    <map src="marijuana-planter/fazenda.map" dimension="0"></map>
+    <script src="marijuana-planter/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="marijuana-planter/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+<!--MINERO CANTERA-->
+	<script src="miner/server.lua" type="server" />
+<!--CAMIONERO CANTERA-->
+    <script src="minertruck/s.lua" type="server" />
+    <script src="minertruck/money_s.lua" type="server" />
+    <script src="minertruck/c.lua" type="client" />
+    <script src="minertruck/client.lua" type="client"/>
+
+    <file src="minertruck/barracks.dff" type="client"/>
+    <file src="minertruck/barracks.txd" type="client"/>
+<!--PIZZERO-->
+	<script src="pizzaboy/kop_s.lua" type="server" />
+    <script src="pizzaboy/money_s.lua" type="server" />
+    <script src="pizzaboy/kop_c.lua" type="client" />
+
+	<file src="pizzaboy/background.png" />
+    <file src="pizzaboy/bu.png" />
+	<file src="pizzaboy/bu2.png" />
+<!--RECOLECTOR PATATAS-->
+    <script src="potato-picker/server.lua" type="server" />
+    <script src="potato-picker/client.lua" type="server" />
+<!--ASISTENTE VIAL-->
+    <script src="road-assistance/shared.lua" type="shared" cache="false"/>
+    <script src="road-assistance/server.lua" type="server"/>
+    <script src="road-assistance/client.lua" type="client" cache="false"/> 
+    
+    <file src="road-assistance/files/kamaz-town.txd" type="client"/>
+    <file src="road-assistance/files/kamaz-town.dff" type="client"/>
+    <file src="road-assistance/files/Walk.png" />
+    
+    <map src="road-assistance/files/Walk1.map" dimension="0"></map>
+<!--LIMPIEADOR CALLES-->
+    <script src="street-cleaning/client.lua" type="client" cache="false"/>
+    <script src="street-cleaning/server.lua" type="server"/>
+    
+    <file src="street-cleaning/car.txd" type="client"/>
+    <file src="street-cleaning/car.dff" type="client"/>
+<!--EMSAMBLADOR VEHICULOS-->
+    <script src="vehicle-assembler/shared.lua" type="shared" cache="false"/>
+    <script src="vehicle-assembler/client.lua" type="client" cache="false"/>
+    <script src="vehicle-assembler/server.lua" type="server"/>
+<!--LEÑADOR-->
+	<script src="woodcutter/c.lua" type="client"/>
+	<script src="woodcutter/s.lua" type="server"/>
+
+	<file src="woodcutter/txd.txd"/>
+	<file src="woodcutter/dff.dff"/>
+</meta>

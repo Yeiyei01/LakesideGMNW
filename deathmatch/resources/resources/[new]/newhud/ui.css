@@ -1,0 +1,49 @@
+img{
+    position: relative;
+    margin-top: .5pt;
+    margin-left: -.3pt;
+    display: inline-block;
+}
+
+.global{
+    background-color: none;
+    width:  20px;
+    height: 20px;
+    border: 1px solid #fff;
+    margin-right: 5px;
+    float: left;
+    border-radius: 1px;
+}
+
+#uzun{
+    width: 50px;
+}
+
+
+.health{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #A20808;
+}
+
+.armor{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #6E6969;
+}
+
+.hunger{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #A5710A;
+}
+
+.thirst{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #074C89;
+}

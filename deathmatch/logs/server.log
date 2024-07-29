@@ -1,0 +1,234 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.6 [64 bit]
+==================================================================
+= Server name      : Lakeside Roleplay | ES | Español | Facciones | 24/7 | Latinoamerica RP
+= Server IP address: 144.217.16.123
+= Server port      : 37092
+= 
+= Log file         : ../port_11913/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 37092
+= Voice Chat       : Quality [4];  Sample Rate: [16000Hz]
+= Bandwidth saving : None
+==================================================================
+[24-02-29 23:48:44] Compacting accounts database 'internal.db' ...
+[24-02-29 23:48:51] ERROR: Couldn't find map faction/towing/towingFaction-exterior.map for resource map-system
+[24-02-29 23:48:51] Loading of resource 'map-system' failed
+[24-02-29 23:48:56] ERROR: Problem with resource: Mascara; Failed to link to bone_attach
+[24-02-29 23:48:56] ERROR: Not processing resource 'bone_attach' as it has duplicates on different paths:
+                  Path #1: "resources/bone_attach"
+                  Path #2: "resources/[Mascara]/bone_attach"
+[24-02-29 23:48:56] ERROR: Problem with resource: briefcaserace; Failed to link to deathpickups
+[24-02-29 23:48:56] ERROR: Problem with resource: ctf-hydrastrike; Failed to link to deathpickups
+[24-02-29 23:48:56] ERROR: Problem with resource: deathmatch; Failed to link to deathpickups
+[24-02-29 23:48:56] ERROR: Not processing resource 'ipb' as it has duplicates on different paths:
+                  Path #1: "resources/[admin]/ipb"
+                  Path #2: "resources/[dev]/ipb"
+[24-02-29 23:48:56] ERROR: Problem with resource: map-system; Couldn't find map faction/towing/towingFaction-exterior.map for resource map-system
+[24-02-29 23:48:56] ERROR: Not processing resource 'parachute' as it has duplicates on different paths:
+                  Path #1: "resources/parachute"
+                  Path #2: "resources/[gameplay]/parachute"
+[24-02-29 23:48:56] ERROR: Not processing resource 'runcode' as it has duplicates on different paths:
+                  Path #1: "resources/[admin]/runcode"
+                  Path #2: "resources/[dev]/runcode"
+[24-02-29 23:48:56] ERROR: Not processing resource 'sfxbrowser' as it has duplicates on different paths:
+                  Path #1: "resources/[gameplay]/sfxbrowser"
+                  Path #2: "resources/[dev]/sfxbrowser"
+[24-02-29 23:48:56] ERROR: Problem with resource: sistema-mascaras; Failed to link to pattach
+[24-02-29 23:48:56] ERROR: Problem with resource: sistema_de_mascaras; Failed to link to bone_attach
+[24-02-29 23:48:56] ERROR: Problem with resource: tdm; Failed to link to deathpickups
+[24-02-29 23:48:56] Resources: 371 loaded, 8 failed
+[24-02-29 23:48:56] Compacting database 'registry.db' ...
+[24-02-29 23:48:57] Server password set to 'asd'
+[24-02-29 23:48:57] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[24-02-29 23:48:57] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[24-02-29 23:48:57] MODULE: Unable to load x64/modules/bcrypt.dll (/home/samp/clients/port_11913/port_11913/x64/modules/bcrypt.dll: invalid ELF header)
+[24-02-29 23:48:57] MODULE: Loaded "bcrypt Module" (1.20) by "mabako"
+[24-02-29 23:48:57] Starting resources...
+[24-02-29 23:48:57] INFO: [MYSQL] createConnection / server_11913_LakesideDB / OK
+[24-02-29 23:48:57] INFO: -- MySQL Module Connection: 
+[24-02-29 23:48:57] INFO: -- OK
+[24-02-29 23:48:57] Server minclientversion is now 1.6.0-9.22388.0
+[24-02-29 23:48:57] INFO: [MYSQL] reconnectConnection / server_11913_LakesideDB / OK
+[24-02-29 23:48:57] WARNING: account/s_main.lua:41: Attempt to restart a stopped resource
+[24-02-29 23:48:57] INFO: Loaded 0 reports.
+[24-02-29 23:48:57] Please wait...
+[24-02-29 23:48:57] Please wait...
+[24-02-29 23:48:58] INFO: [INTERIOR] Started loading 374 interiors. Finish in 0.187 second(s)
+[24-02-29 23:48:58] INFO: Deleting all unprotected 30+ days old exterior items (mode 2)
+[24-02-29 23:48:58] INFO: item-texture: Loading textures for 0 world items
+[24-02-29 23:48:58] INFO: item-texture: 0 clients waiting on initial sync.
+[24-02-29 23:48:58] INFO: item-texture: 0 textured elements were added for initial sync.
+[24-02-29 23:48:58] INFO: Loaded 0 pilot licenses in 1ms.
+[24-02-29 23:48:58] WARNING: mdc/mdc.lua:59: dbPoll failed; Table 'server_11913_LakesideDB.mdc_anpr' doesn't exist
+[24-02-29 23:48:58] ERROR: Couldn't find resource parachute. Check it exists.
+[24-02-29 23:48:59] WARNING: gate-manager/s_gates.lua:68: Bad usage @ 'createObject' [Invalid model id]
+[24-02-29 23:48:59] WARNING: gate-manager/s_gates.lua:68: Bad usage @ 'createObject' [Invalid model id]
+[24-02-29 23:48:59] INFO: [VEHICLE] Started loading 14 vehicles. Finish in 0.07 second(s)
+[24-02-29 23:48:59] INFO: Server: Fetched 8 stations from db.
+[24-02-29 23:48:59] INFO: Loaded 0 texture records for all interiors in 0ms
+[24-02-29 23:48:59] ERROR: Couldn't find resource bone_attach. Check it exists.
+[24-02-29 23:48:59] INFO: LeFire Script loaded ...
+[24-02-29 23:48:59] INFO: PRISON-SYSTEM: Loaded 24 cell gates from s_gates.lua
+[24-02-29 23:49:00] INFO: checkpoint 2
+[24-02-29 23:49:00] SCRIPT ERROR: event-system/paintball/s_paintball.lua:263: function arguments expected near ')'
+[24-02-29 23:49:00] ERROR: Loading script failed: event-system/paintball/s_paintball.lua:263: function arguments expected near ')'
+[24-02-29 23:49:00] INFO: Loaded 0 animated texture records in 0ms
+[24-02-29 23:49:00] ERROR: Unable to start resource map-system; Couldn't find map faction/towing/towingFaction-exterior.map for resource map-system
+[24-02-29 23:49:00] Querying MTA master server... success! (Auto detected IP:144.217.16.123)
+[24-02-29 23:49:00] Authorized serial account protection is DISABLED. See http://mtasa.com/authserial
+[24-02-29 23:49:00] Server started and is ready to accept connections!
+[24-02-29 23:49:00] To stop the server, type 'shutdown' or press Ctrl-C
+[24-02-29 23:49:00] Type 'help' for a list of commands.
+[24-02-29 23:49:00] INFO: [ELEVATOR] Spawning 103 elevators will be finished in approx. 11 seconds.
+[24-02-29 23:49:00] INFO: [ITEM WORLD] Loading 9.56 world items will be finished in approximately 1 minutes.
+[24-02-29 23:49:00] INFO: [TRUCKER] Refreshed 13 orders.
+[24-02-29 23:49:00] INFO: [CLOTHES] Server / Loaded 0 clothing items
+[24-02-29 23:49:01] Stopping item-texture
+[24-02-29 23:49:01] Starting item-texture
+[24-02-29 23:49:01] INFO: item-texture: Loading textures for 478 world items
+[24-02-29 23:49:01] INFO: item-texture: 0 clients waiting on initial sync.
+[24-02-29 23:49:01] INFO: item-texture: 0 textured elements were added for initial sync.
+[24-02-29 23:49:01] item-texture restarted successfully
+[24-02-29 23:49:33] CONNECT: ElAlancitoPa connected (IP: 186.132.51.255  Serial: 79FFA54C50A7322DF72BF4E357A9F8B4  Version: 1.6.0-9.22388.0)
+[24-02-29 23:49:34] JOIN: ElAlancitoPa joined the game (IP: 186.132.51.255)
+[24-02-29 23:49:48] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-02-29 23:49:51] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-02-29 23:49:51] INFO: Server: sending 8 stations to client.
+[24-02-29 23:50:00] INFO: checkpoint 3
+[24-02-29 23:51:00] INFO: checkpoint 4
+[24-02-29 23:51:30] NICK: ElAlancitoPa is now known as Alan_Diaz
+[24-02-29 23:51:30] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-02-29 23:51:36] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-02-29 23:52:00] INFO: checkpoint 5
+[24-02-29 23:52:12] CONNECT: Dannii connected (IP: 157.100.139.247  Serial: 8C3D4417CCAF198AEB46BD9F45B945F4  Version: 1.6.0-9.22388.0)
+[24-02-29 23:52:12] JOIN: Dannii joined the game (IP: 157.100.139.247)
+[24-02-29 23:52:20] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-02-29 23:52:24] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-02-29 23:52:24] INFO: Server: sending 8 stations to client.
+[24-02-29 23:52:31] WARNING: account/login-panel/server.lua:339: Bad usage @ 'addEventHandler' ['goFromLoginToSelectionScreen' with this function is already handled]
+[24-02-29 23:52:38] NICK: Dannii is now known as Daniel_Garcia
+[24-02-29 23:52:39] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-02-29 23:52:44] ACL: Denied 'Daniel_Garcia' access to command 'start'
+[24-02-29 23:52:45] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-02-29 23:52:48] WARNING: advertisements/advertisements.lua:54: poll failed; Column 'section' cannot be null
+[24-02-29 23:52:54] WARNING: advertisements/advertisements.lua:54: poll failed; Column 'section' cannot be null  [DUP x4]
+[24-02-29 23:52:56] ACL: Denied 'Daniel_Garcia' access to command 'start'
+[24-02-29 23:53:00] INFO: checkpoint 6
+[24-02-29 23:54:51] NICK: Daniel_Garcia is now known as KLKDannii
+[24-02-29 23:54:51] NICK: KLKDannii is now known as Daniel_Garcia
+[24-02-29 23:55:18] QUIT: Daniel_Garcia left the game [Quit] 
+[24-02-29 23:55:18] INFO: [Phone] Daniel_Garcia triggered cancelPhoneCall / Quit / 0
+[24-02-29 23:55:24] CONNECT: KLKDannii connected (IP: 157.100.139.247  Serial: 8C3D4417CCAF198AEB46BD9F45B945F4  Version: 1.6.0-9.22388.0)
+[24-02-29 23:55:25] JOIN: KLKDannii joined the game (IP: 157.100.139.247)
+[24-02-29 23:55:33] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-02-29 23:55:36] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-02-29 23:55:36] INFO: Server: sending 8 stations to client.
+[24-02-29 23:55:43] ACL: Denied 'KLKDannii' access to command 'start'
+[24-02-29 23:55:46] WARNING: account/login-panel/server.lua:339: Bad usage @ 'addEventHandler' ['goFromLoginToSelectionScreen' with this function is already handled]
+[24-02-29 23:55:54] NICK: KLKDannii is now known as Daniel_Garcia
+[24-02-29 23:55:55] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-02-29 23:56:01] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-02-29 23:57:08] ACL: Denied 'Daniel_Garcia' access to command 'start'
+[24-02-29 23:57:55] ACL: Denied 'Daniel_Garcia' access to command 'start'
+[24-02-29 23:58:30] ACL: Denied 'Daniel_Garcia' access to command 'start'
+[24-02-29 23:58:32] ACL: Denied 'Daniel_Garcia' access to command 'start'
+[24-02-29 23:58:37] QUIT: Daniel_Garcia left the game [Quit] 
+[24-02-29 23:58:37] INFO: [Phone] Daniel_Garcia triggered cancelPhoneCall / Quit / 0
+[24-02-29 23:58:40] CONNECT: KLKDannii connected (IP: 157.100.139.247  Serial: 8C3D4417CCAF198AEB46BD9F45B945F4  Version: 1.6.0-9.22388.0)
+[24-02-29 23:58:40] JOIN: KLKDannii joined the game (IP: 157.100.139.247)
+[24-02-29 23:58:48] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-02-29 23:58:51] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-02-29 23:58:51] INFO: Server: sending 8 stations to client.
+[24-02-29 23:58:55] INFO: [FREECAM] asyncActivateFreecam / Ran
+[24-02-29 23:59:18] WARNING: account/login-panel/server.lua:339: Bad usage @ 'addEventHandler' ['goFromLoginToSelectionScreen' with this function is already handled]
+[24-02-29 23:59:25] NICK: KLKDannii is now known as Daniel_Garcia
+[24-02-29 23:59:26] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-02-29 23:59:29] ACL: Denied 'Daniel_Garcia' access to command 'start'
+[24-02-29 23:59:32] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-02-29 23:59:36] INFO: [FREECAM] asyncDeactivateFreecam / Ran
+[24-03-01 00:00:59] INFO: [PAYDAY] Server / payAllWages / Ran.
+[24-03-01 00:00:59] INFO: BIZ-SYSTEM SETTINGS: wageRate=2, limitDebtAmount=6000, warningDebtAmount=5000
+[24-03-01 00:00:59] INFO: ------------START UPDATING SHOP WAGES------------
+[24-03-01 00:00:59] INFO: ------------UPDATED 0 SHOP WAGES------------
+[24-03-01 00:03:59] INFO: Server: Fetched 8 stations from db.
+[24-03-01 00:05:16] INFO: Server: sending 8 stations to client.
+[24-03-01 00:08:00] INFO: checkpoint 7
+[24-03-01 00:08:02] Stopping bank
+[24-03-01 00:08:02] Starting bank
+[24-03-01 00:08:02] bank restarted successfully
+[24-03-01 00:08:27] LOGIN: Daniel_Garcia tried to log in as 'KLKDannii' (Unknown account) (IP: 157.100.139.247  Serial: 8C3D4417CCAF198AEB46BD9F45B945F4)
+[24-03-01 00:10:58] LOGIN: Alan_Diaz tried to log in as 'jugadorn12' (Unknown account) (IP: 186.132.51.255  Serial: 79FFA54C50A7322DF72BF4E357A9F8B4)
+[24-03-01 00:11:14] LOGIN: Daniel_Garcia tried to log in as 'KLKDannii' (Unknown account) (IP: 157.100.139.247  Serial: 8C3D4417CCAF198AEB46BD9F45B945F4)
+[24-03-01 00:11:17] LOGIN: Daniel_Garcia tried to log in as 'KLKDannii' (Unknown account) (IP: 157.100.139.247  Serial: 8C3D4417CCAF198AEB46BD9F45B945F4)
+[24-03-01 00:14:16] INFO: Server: sending 8 stations to client.
+[24-03-01 00:18:58] INFO: [SHOP] A forum report has made for 0 Faction Drop NPC(s).
+[24-03-01 00:18:59] INFO: Server: Fetched 8 stations from db.
+[24-03-01 00:20:46] INFO: Server: sending 8 stations to client.
+[24-03-01 00:21:43] ACL: Denied 'Daniel_Garcia' access to command 'start'
+[24-03-01 00:22:01] LOGIN: Daniel_Garcia tried to log in as 'KLKDannii' (Unknown account) (IP: 157.100.139.247  Serial: 8C3D4417CCAF198AEB46BD9F45B945F4)
+[24-03-01 00:22:02] LOGIN: Daniel_Garcia tried to log in as 'KLKDannii' (Unknown account) (IP: 157.100.139.247  Serial: 8C3D4417CCAF198AEB46BD9F45B945F4)
+[24-03-01 00:25:55] QUIT: Daniel_Garcia left the game [Quit] 
+[24-03-01 00:25:55] INFO: [Phone] Daniel_Garcia triggered cancelPhoneCall / Quit / 0
+[24-03-01 00:33:59] INFO: Server: Fetched 8 stations from db.
+[24-03-01 00:36:16] INFO: Server: sending 8 stations to client.
+[24-03-01 00:48:57] INFO: WORLDSAVE INCOMING
+[24-03-01 00:48:58] INFO: [SHOP] Saved 3 shops configs to SQL successfully.
+[24-03-01 00:48:58] INFO: [SHOP] Faction Drop - Restocked products
+[24-03-01 00:48:58] INFO: [DATA] Saved Faction Drop NPC logs records.
+[24-03-01 00:48:58] INFO: [SHOP] A forum report has made for 0 Faction Drop NPC(s).
+[24-03-01 00:48:59] INFO: Server: Fetched 8 stations from db.
+[24-03-01 00:51:46] INFO: Server: sending 8 stations to client.
+[24-03-01 01:00:59] INFO: [PAYDAY] Server / payAllWages / Ran.
+[24-03-01 01:00:59] INFO: BIZ-SYSTEM SETTINGS: wageRate=2, limitDebtAmount=6000, warningDebtAmount=5000
+[24-03-01 01:00:59] INFO: ------------START UPDATING SHOP WAGES------------
+[24-03-01 01:00:59] INFO: ------------UPDATED 0 SHOP WAGES------------
+[24-03-01 01:03:59] INFO: Server: Fetched 8 stations from db.
+[24-03-01 01:04:38] QUIT: Alan_Diaz left the game [Quit] 
+[24-03-01 01:04:38] INFO: [Phone] Alan_Diaz triggered cancelPhoneCall / Quit / 0
+[24-03-01 01:18:58] INFO: [SHOP] A forum report has made for 0 Faction Drop NPC(s).
+[24-03-01 01:19:04] INFO: Server: Fetched 8 stations from db.
+[24-03-01 01:33:59] INFO: Server: Fetched 8 stations from db.
+[24-03-01 01:46:06] CONNECT: PushyPopcorn0 connected (IP: 191.113.212.180  Serial: 6C5F12D2EDB55C0F830556FBDF6E8A03  Version: 1.6.0-9.22388.0)
+[24-03-01 01:46:14] JOIN: PushyPopcorn0 joined the game (IP: 191.113.212.180)
+[24-03-01 01:46:56] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-03-01 01:46:57] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-03-01 01:46:57] INFO: Server: sending 8 stations to client.
+[24-03-01 01:46:59] WARNING: account/login-panel/server.lua:339: Bad usage @ 'addEventHandler' ['goFromLoginToSelectionScreen' with this function is already handled]
+[24-03-01 01:47:35] NICK: PushyPopcorn0 is now known as Pablo_Espinoza
+[24-03-01 01:47:49] INFO: [FREECAM] asyncActivateFreecam / Ran
+[24-03-01 01:48:38] INFO: [FREECAM] asyncDeactivateFreecam / Ran
+[24-03-01 01:48:57] INFO: WORLDSAVE INCOMING
+[24-03-01 01:48:58] INFO: [SHOP] Saved 3 shops configs to SQL successfully.
+[24-03-01 01:48:58] INFO: [SHOP] Faction Drop - Restocked products
+[24-03-01 01:48:58] INFO: [DATA] Saved Faction Drop NPC logs records.
+[24-03-01 01:48:58] INFO: [SHOP] A forum report has made for 0 Faction Drop NPC(s).
+[24-03-01 01:48:59] INFO: Server: Fetched 8 stations from db.
+[24-03-01 01:49:46] QUIT: Pablo_Espinoza left the game [Quit] [Redirected to port 37092]
+[24-03-01 01:49:46] INFO: [Phone] Pablo_Espinoza triggered cancelPhoneCall / Quit / 0
+[24-03-01 01:49:50] CONNECT: PushyPopcorn0 connected (IP: 191.113.212.180  Serial: 6C5F12D2EDB55C0F830556FBDF6E8A03  Version: 1.6.0-9.22388.0)
+[24-03-01 01:49:51] JOIN: PushyPopcorn0 joined the game (IP: 191.113.212.180)
+[24-03-01 01:50:07] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-03-01 01:50:08] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-03-01 01:50:08] INFO: Server: sending 8 stations to client.
+[24-03-01 01:50:17] WARNING: account/login-panel/server.lua:339: Bad usage @ 'addEventHandler' ['goFromLoginToSelectionScreen' with this function is already handled]
+[24-03-01 01:50:25] NICK: PushyPopcorn0 is now known as Pablo_Espinoza
+[24-03-01 01:50:50] LOGIN: (Everyone, Admin) Pablo_Espinoza successfully logged in as 'Pablitoo' (IP: 191.113.212.180  Serial: 6C5F12D2EDB55C0F830556FBDF6E8A03)
+[24-03-01 01:51:07] QUIT: Pablo_Espinoza left the game [Quit] [Redirected to port 37092]
+[24-03-01 01:51:07] INFO: [Phone] Pablo_Espinoza triggered cancelPhoneCall / Quit / 0
+[24-03-01 01:51:10] CONNECT: PushyPopcorn0 connected (IP: 191.113.212.180  Serial: 6C5F12D2EDB55C0F830556FBDF6E8A03  Version: 1.6.0-9.22388.0)
+[24-03-01 01:51:10] JOIN: PushyPopcorn0 joined the game (IP: 191.113.212.180)
+[24-03-01 01:51:25] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-03-01 01:51:27] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-03-01 01:51:27] INFO: Server: sending 8 stations to client.
+[24-03-01 01:51:36] WARNING: account/login-panel/server.lua:339: Bad usage @ 'addEventHandler' ['goFromLoginToSelectionScreen' with this function is already handled]
+[24-03-01 01:51:57] ERROR: artifacts/s_artifacts.lua:74: exports: Call to non-running server resource (bone_attach) [string "?"]
+[24-03-01 01:51:57] NICK: PushyPopcorn0 is now known as Pablo_Ezpinoza
+[24-03-01 01:51:57] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]
+[24-03-01 01:52:03] ERROR: fakevideo/s_fakevideo.lua:134: exports: Call to non-running server resource (clubtec) [string "?"]  [DUP x423]
+[24-03-01 01:53:30] QUIT: Pablo_Ezpinoza left the game [Quit] 
+[24-03-01 01:53:30] INFO: [Phone] Pablo_Ezpinoza triggered cancelPhoneCall / Quit / 0
+[24-03-01 02:00:59] INFO: [PAYDAY] Server / payAllWages / Ran.
+[24-03-01 02:00:59] INFO: BIZ-SYSTEM SETTINGS: wageRate=2, limitDebtAmount=6000, warningDebtAmount=5000
+[24-03-01 02:00:59] INFO: ------------START UPDATING SHOP WAGES------------
+[24-03-01 02:00:59] INFO: ------------UPDATED 0 SHOP WAGES------------

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="The Jose" type="misc" name="Skins Nine Nine" description="Skins Mujeres" />
+     <script src="script.lua" type="client" />
+
+     <file src="modelShip5.txd" />
+     <file src="modelShip5.dff" />
+
+     <file src="modelShip6.txd" />
+     <file src="modelShip6.dff" />
+
+     <file src="mecgrl32.txd" />
+     <file src="mecgrl32.dff" />
+
+     <file src="Nora_Whitaker.txd" />
+     <file src="Nora_Whitaker.dff" />
+
+     <file src="skinismi.txd" />
+     <file src="skinismi.dff" />
+     
+     <file src="wfyclot.txd" />
+     <file src="wfyclot.dff" />
+
+     <file src="wfyclot2.txd" />
+     <file src="wfyclot2.dff" />
+
+     <file src="wfyclot3.txd" />
+     <file src="wfyclot3.dff" />
+
+     <file src="wfyst.txd" />
+     <file src="wfyst.dff" />
+
+     <file src="wfyst_8.txd" />
+     <file src="wfyst_8.dff" />
+
+     <file src="wfyst4.txd" />
+     <file src="wfyst4.dff" />
+
+     <file src="wfyst10.txd" />
+     <file src="wfyst10.dff" />
+
+     <file src="etekgomlek.txd" />
+     <file src="etekgomlek.dff" />
+
+</meta>

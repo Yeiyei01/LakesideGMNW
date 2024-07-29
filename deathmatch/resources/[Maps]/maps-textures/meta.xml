@@ -1,0 +1,67 @@
+<meta>
+	<oop>true</oop>
+
+        <script src="Textures/replace.lua" type="client" />
+
+	<file src="Textures/des_nwtownpolice.txd" />
+        <file src="Textures/des_nwtown.txd" />
+	<file src="Textures/adam_v_doort.txd" />
+        <file src="Textures/vgsegarage.txd" />
+        <file src="Textures/factorycunte.txd" />
+        <file src="Textures/dockcargo2_las.txd" />
+        <file src="Textures/sw_ware01.txd" />
+	<file src="Textures/des_stownw.txd" />
+        <file src="Textures/des_byoffice.txd" />
+        <file src="Textures/ce_terminal.txd" />
+        <file src="Textures/ce_terminal1.dff" />
+        <file src="Textures/placa.txd" />
+        <file src="Textures/firehouse_sfse.txd" />
+        <file src="Textures/dk_midbuilds.txd" />
+	<file src="Textures/cunte_lik.txd" />
+        <file src="Textures/helixbarrier.txd" />
+        <file src="Textures/barrier.txd" />
+        <file src="Textures/dyncones.txd" />
+        <file src="Textures/truckedepotlawn.txd" />
+        <file src="Textures/sw_farm1.txd" />
+        <file src="Textures/ground5_las.txd" />
+        <file src="Textures/icons6.txd" />
+        <file src="Textures/cw_motel2cs_t.txd" />
+        <file src="Textures/newstuff_sfn.txd" />
+        <file src="Textures/vgsn_rbstiff.txd" />
+        <file src="Textures/vgnfremnt2.txd" />
+        <file src="Textures/portakabin.txd" />
+        <file src="Textures/cxref_freeway.txd" />
+        <file src="Textures/law_coffintu.txd" />
+        <file src="Textures/cxref_desert.txd" />
+        <file src="Textures/vgnpwrentrnce.txd" />
+        <file src="Textures/des_stownmain2.txd" />
+
+        <script src='TXT-Bar/client.lua' type='client' />  
+
+        <file src='TXT-Bar/files/model/lahills_whisky.txd' type='client' />  
+        <file src='TXT-Bar/files/model/cunte_whisky.dff' type='client' />  
+        <file src='TXT-Bar/files/model/cunte_whisky.col' type='client' />
+
+	<script src="TXT-Billboard/rotator.lua" type="client"/>
+
+	<file src="TXT-Billboard/bilbo1.png"/>
+	<file src="TXT-Billboard/bilbo2.png"/>
+	<file src="TXT-Billboard/bilbo3.png"/>
+	<file src="TXT-Billboard/bilbo.txd"/>
+	<file src="TXT-Billboard/bilbo.dff"/>
+	<file src="TXT-Billboard/bilbo.col"/>
+	<file src="TXT-Billboard/rotator.fx"/>
+
+	<script src="TXT-MinerTown/replace.lua" type="client" />
+
+        <file src="TXT-MinerTown/data/hillhousex4_5.txd" />
+
+        <script src="TXT-MinerTown2/replace.lua" type="client" />
+
+        <file src="TXT-MinerTown2/data/ganghous03.txd" />
+
+        <script src="TXT-Towns/replace.lua" type="client" />
+
+        <file src="TXT-Towns/sw_diner1.txd" />
+        <file src="TXT-Towns/sw_diner1.dff" />
+</meta>

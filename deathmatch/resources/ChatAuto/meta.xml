@@ -1,0 +1,6 @@
+<meta>
+    <info author="Nachito " name="Chat" description="Chat Automatico" version="1.0" type="script" />
+
+	<script src="ChatAutomatico.lua" type="server" />
+	
+</meta>

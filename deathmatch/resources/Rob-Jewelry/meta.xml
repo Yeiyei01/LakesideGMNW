@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+    <info author="GameLight" type="misc" name="Rob Jewelry" description="Rob Jewelry With Map For MTA (OWL Gaming)" />
+	
+	<script src="sourceC.lua" type="client" protected="true" />
+	<script src="Alarm.lua" type="client" protected="true" />
+	<script src="sourceS.lua" type="server" />
+	<file src="Alarm.mp3" />
+	<file src="Font.ttf" cache="false"/>
+	
+    <script src="Model/jewelry-c.lua" type="client" />
+    <file src="Model/GameLight.txd" />
+	<file src="Model/GameLight.col" />
+	<file src="Model/4735.dff" />
+	<file src="Model/4735.txd" />
+	<file src="Model/3095.txd" />
+	<file src="Model/door.dff" />
+	<file src="Model/door.txd" />
+	<file src="Model/door.col" />
+	
+	<oop>true</oop>
+    <info type="map" version="1.0.0"></info>
+    <map src="Map/Map-Jewelry.map" dimension="0"></map>
+    <settings>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.008 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="12:0"></setting>
+    </settings>
+    <script src="Map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="Map/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

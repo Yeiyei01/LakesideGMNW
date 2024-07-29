@@ -1,0 +1,12 @@
+<meta>
+	<file src="texreplace.fx" />
+	<file src="siteM16.png" />
+	<file src="hitmarker.png" />
+	<file src="hitmarker-sound.wav" />
+	<script type="client" src="client.lua" cache="false" />
+	<script type="server" src="C_shader_siteM16.lua" cache="false" />
+	<script src="hit_c.lua" type="client" cache="false" />
+	<script src="mainC.lua" type="client" />
+    <file src="files/textures/sniper.png" />
+    <file src="files/texreplace.fx" />
+</meta>

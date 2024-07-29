@@ -1,0 +1,21 @@
+<meta>
+    <min_mta_version client="1.3.0-9.04431"/>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src='server.lua' type='server'/>
+
+    <file src='fonts/DroidSans.ttf'/>
+    <file src='fonts/DroidSansBold.ttf'/>
+
+    <file src="hud_mask.fx"/>        
+    <file src="include/tex_matrix.fx"/>
+
+    <file src='files/background.png'/>
+    <file src='files/coin.png'/>
+    <file src='files/arrow.png'/>
+    <file src='files/line.png'/>
+    <file src='files/cube.png'/>
+    <file src='files/mask.png'/>
+    <file src='files/mask_down.png'/>
+    <file src='files/avatar.png'/>
+    <file src='files/x.png'/>
+</meta>

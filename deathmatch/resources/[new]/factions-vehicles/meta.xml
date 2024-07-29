@@ -1,0 +1,43 @@
+<meta>
+    <info type="misc" name="Skins Nine Nine RP" author="The Jose" description="" version="1.3" />
+
+
+   <file src="polmav.txd" />
+    <file src="polmav.dff" />
+
+   <file src="copbike.txd" />
+    <file src="copbike.dff" />
+
+   <file src="copcarla.txd" />
+    <file src="copcarla.dff" />
+
+   <file src="copcarsf.txd" />
+    <file src="copcarsf.dff" />
+
+   <file src="copcarlv.txd" />
+    <file src="copcarlv.dff" />
+
+   <file src="coprancher.txd" />
+    <file src="coprancher.dff" />
+
+   <file src="premier.txd" />
+    <file src="premier.dff" />
+
+   <file src="patriot.txd" />
+    <file src="patriot.dff" />
+
+   <file src="fbitruck.txd" />
+    <file src="fbitruck.dff" />
+
+   <file src="ambulance.txd" />
+    <file src="ambulance.dff" />
+
+   <file src="fbirancher.txd" />
+    <file src="fbirancher.dff" />
+
+   <file src="packer.txd" />
+    <file src="packer.dff" />
+
+    <script type="client" src="replace.lua" cache="false" />
+
+</meta>

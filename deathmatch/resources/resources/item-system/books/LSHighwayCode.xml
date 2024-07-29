@@ -1,0 +1,77 @@
+<content>
+	<numPages>4</numPages>
+
+	<page>PPágina LÍMITES DE VELOCIDAD
+No debe exceder el límite de velocidad máximo para la carretera y para su vehículo. El límite de velocidad dentro de los límites de la ciudad de Los Santos es de 60 km/h o 40 mph, excepto cuando se conduce por la autopista Julius Thruway o la Harry Gold Parkway.
+
+
+DISCIPLINA DE CARRIL
+
+Debe conducir por el carril de la derecha en todas las carreteras. En el caso de que haya dos carriles de tráfico en la misma dirección, debe conducir en el terreno más alejado de la derecha, excepto al adelantar.
+
+En caso de que se acerque un vehículo de emergencia, deberá apartarse al lado derecho de la carretera y detenerse para permitir el paso del vehículo. Una vez que el vehículo haya pasado, deberá reincorporarse al tráfico cuando sea seguro hacerlo.
+
+Al viajar detrás de un camión grande debes ser consciente de la limitada visibilidad que el conductor del camión tiene de ti. Los puntos ciegos en los que los camiones no podrán verte están directamente detrás de él y directamente a la izquierda.
+
+Cuando te acerques a una curva pronunciada de la carretera, reduce la velocidad para tener tiempo de detectar cualquier peligro repentino, como un vehículo detenido en la carretera.</page>
+	<page>MAL TIEMPO
+
+Con mal tiempo, debe facilitar la visibilidad de su vehículo encendiendo los faros. El mal tiempo afectará al control de su vehículo y al tiempo que tarda en detenerse después de frenar.
+
+INTERSECCIONES
+
+En una intersección con parada de cuatro vías debe ceder el paso al vehículo que circula por la derecha. En el caso de los semáforos, debe esperar a que el semáforo se ponga en verde para comprobar que es seguro seguir su camino. Los conductores deben ceder siempre el paso a los peatones en una intersección en la que el semáforo para peatones esté en verde.
+
+
+ESTACIONAMIENTO
+Al aparcar su vehículo, asegúrese de no obstaculizar las vías de acceso ni a otros usuarios de la carretera. No se puede aparcar a menos de 15 pies de un hidrante.</page>
+	<page>(((INTERMITENTES VINCULANTES
+Para utilizar los intermitentes con script en los vehículos introduzca los siguientes comandos:
+
+/bind [la tecla a la que desea vincularlo] indicator_left
+/bind [la tecla a la que desea vincularlo] indicator_right
+
+Ahora podrás activar y desactivar los intermitentes pulsando la tecla a la que los has vinculado).</page>
+
+	<page>LEYES RELACIONADAS CON LA CARRETERA
+Posesión de Nitroso: Poseer óxido nitroso en su vehículo.
+Multa: 500 - 4500
+
+No detenerse después de un accidente
+Multa: 1000 - 10000
+
+Imprudencia / Conducción temeraria: Una grave violación de tráfico en movimiento, conduciendo cualquier vehículo sin cuidado y con desprecio intencional o gratuito por los derechos o la seguridad de las personas o la propiedad.
+Multa: 1000 - 8000 posibles para tomar la licencia
+
+Tintar ilegalmente los cristales de su vehículo: Tener los cristales de su vehículo tintados por encima del límite legal. (Parabrisas: 0%, cristales delanteros: 35%, Ventanas traseras: 100%, Ventanas traseras: 100%)
+Multa de 5000 a 10000
+
+Estacionamiento ilegal/bloqueo de la carretera: Estacionar un vehículo en una zona en la que está prohibido hacerlo.
+Multa: 100 - 2000
+
+Carreras ilegales: Carreras de autos no sancionadas e ilegales que se realizan en la vía pública.
+Multa: 5000 - 15000 (quitar la licencia)
+
+Delitos vehiculares menores:
+Conducir en estado de ebriedad: Conducir bajo la influencia del alcohol.
+Multa: 2000 - 8000 (Quitar la licencia si lo hacen repetidamente)
+
+Conducción temeraria: Una infracción grave de tráfico en movimiento, conduciendo cualquier vehículo de forma descuidada e imprudente con desprecio intencionado o gratuito por los derechos o la seguridad de las personas o la propiedad.
+Multa: 1000 - 8000 posibles para retirar el permiso
+
+Uso indebido de un vehículo de carretera/avión: Uso de un vehículo que pueda causar estragos, trastornos, peligro o pánico.
+Multa: 10000 - 15000 posible tomar la licencia
+
+Conducir un vehículo no reglamentario en la vía pública: Conducir un vehículo como los carritos en las calles.
+Multa: 2000 - 6000
+
+No ceder el paso a un vehículo de emergencia: No ceder el paso a un vehículo de emergencia cuando dicho vehículo le ha ordenado despejar el camino mediante el uso de un megáfono o una sirena.
+Multa: 500 - 1500
+
+No pagar una multa por un delito menor: No pagar una multa puesta por un delito menor.
+Multa: 500 - 5000
+
+Imprudencia: Conducta temeraria que puede producir la muerte o daños corporales graves a otra persona.
+Multa: 5000 - 10000
+</page>
+</content>

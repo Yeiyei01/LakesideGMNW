@@ -1,0 +1,32 @@
+<meta>
+    <oop>true</oop>
+    
+    <script src="g_tools.lua" type="shared" />
+    <script src="c_tools.lua" type="client" />
+	<script src="s_tools.lua" type="client" />
+    
+    <script src="ipb/ipbs.lua" type="server" />
+    <script src="ipb/ipbc.lua" type="client" />
+    
+    <script src="stat/xPerformanceS.lua" type="server" />
+    <script src="stat/xPerformanceC.lua" type="client" />
+    
+    <script src="hook/s_hook.lua" type="server" />
+    <script src="hook/c_hook.lua" type="client" />
+    
+    <script src="coleditor/server.lua" type="server" />
+    <script src="coleditor/client.lua" type="client" />
+    
+    <script src="tex_names/c_tex_names.lua" type="client" />
+    <file src="tex_names/tex_names.fx" type="client" />
+    
+    <script src="runcode/client.lua" type="client" />
+    <script src="runcode/client_util.lua" type="client" />
+    <script src="runcode/server.lua" type="server" />
+    <script src="runcode/server_util.lua" type="server" />
+    
+    <script src="exportlist/client.lua" type="client" />
+    <script src="exportlist/server.lua" type="server" />
+    
+    <export function="runCleanup" type="server" />
+</meta>

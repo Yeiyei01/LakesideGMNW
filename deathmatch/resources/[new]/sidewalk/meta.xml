@@ -1,0 +1,6 @@
+<meta>
+    <info author="moh2006" name="new sidewalk" description="mod by moh2006" type="script" version="1.0" />
+    <script src="c.lua" type="client" cache="false"/>
+	 <file src="shader.fx" />
+	 <file src="38.jpg" />
+</meta>

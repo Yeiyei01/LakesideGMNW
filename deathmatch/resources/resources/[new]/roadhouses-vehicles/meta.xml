@@ -1,0 +1,16 @@
+<meta>
+    <info type="misc" name="Skins Nine Nine RP" author="The Jose" description="" version="1.3" />
+
+
+   <file src="journey.txd" />
+    <file src="journey.dff" />
+
+   <file src="journey1.txd" />
+    <file src="journey1.dff" />
+
+   <file src="journey2.txd" />
+    <file src="journey2.dff" />
+
+    <script type="client" src="replace.lua" cache="false" />
+
+</meta>

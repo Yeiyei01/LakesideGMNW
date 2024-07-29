@@ -1,0 +1,23 @@
+<meta>
+
+
+    <script type="shared" src="ayar.lua"   cache="false" />
+    <script type="server" src="server.lua" cache="false" />
+    <script type="client" src="client.lua" cache="false" />
+
+    <file src="roboto.ttf"/>
+   
+    <file src="logo/cola.png"/>
+    <file src="logo/fanta.png"/>
+    <file src="logo/iphone.png"/>
+    <file src="logo/kargo.png"/>
+    <file src="logo/shell.png"/>
+    <file src="logo/vatan.png"/>
+    <file src="logo/vosvos.png"/>
+
+    <file src="icons/arrow.png"/>
+    <file src="icons/location.png"/>
+
+    <oop>true</oop>
+
+</meta>

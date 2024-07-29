@@ -1,0 +1,7 @@
+<meta>
+<script src="s.lua" type="server" />
+<script src="cl.lua" type="client" />
+
+	<script src="pass_s.lua" type="server" />
+	<script src="pass_c.lua" type="client" />
+</meta>

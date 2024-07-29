@@ -1,0 +1,13 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+
+    <file src='fonts/DroidSans.ttf'/>
+    <file src='fonts/DroidSansBold.ttf'/>
+
+    <file src='files/coin.png'/>
+
+    <export function="createEditbox" type="client"/>
+    <export function="destroyEditbox" type="client"/>
+    <export function="editboxGetText" type="client"/>
+    <export function="editboxSetText" type="client"/>
+</meta>

@@ -1,0 +1,722 @@
+{"action":27,"origin":"ac1","date":"2021-09-16T09:09:51","phones":[],"objects":[],"characters":[],"vehicles":[],"interiors":[],"accounts":[1],"content":"Conectado desde 192.168.0.114 - 6EC9AEABE01AAB0798611259447BA2A2","factions":[]}
+{"action":27,"origin":"ac1","date":"2021-09-16T09:11:20","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[1],"content":"Spawned","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T09:11:39","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T09:12:28","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Blindaje de alta gama de Kevlar (TYPE4) 1","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T09:12:30","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister coge su chaleco blindado y se lo pone.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T09:13:45","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister rolls their windows down.","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T09:17:35","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T09:21:35","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5217 - Carcasa de la cáscara - 7.62mm casing @ (1109.5542, -1310.2238, 24.618319) in (int 0, dim 0)","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T09:28:03","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister adjusts the radio volume.","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T09:31:04","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"VEH 69 created with ID -1","factions":[]}
+{"action":31,"origin":"ch16","date":"2021-09-16T09:31:10","phones":[],"objects":[],"characters":[16],"vehicles":[-1],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T09:47:10","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T09:51:09","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T09:51:11","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T10:00:47","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":7,"origin":"ch16","date":"2021-09-16T10:56:30","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: A","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T12:01:19","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T12:35:06","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":27,"origin":"ac1","date":"2021-09-16T13:14:24","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[1],"content":"Disconnected (Quit) (Name: Bill_Hollister)","factions":[]}
+{"action":27,"origin":"ac1","date":"2021-09-16T15:36:07","phones":[],"objects":[],"characters":[],"vehicles":[],"interiors":[],"accounts":[1],"content":"Conectado desde 26.159.76.54 - 6EC9AEABE01AAB0798611259447BA2A2","factions":[]}
+{"action":27,"origin":"ac1","date":"2021-09-16T15:36:43","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[1],"content":"Spawned","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T15:40:36","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T15:57:42","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T16:00:48","phones":[],"objects":[],"characters":[],"vehicles":[38],"interiors":[],"accounts":[],"content":"getveh","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:00:56","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEMONEY 500000","factions":[]}
+{"action":31,"origin":"ch16","date":"2021-09-16T16:01:02","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:01:03","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:01:08","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:02:33","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEMONEY 500000","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:02:34","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEMONEY 500000","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:02:35","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEMONEY 500000","factions":[]}
+{"action":31,"origin":"ch16","date":"2021-09-16T16:03:20","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:03:22","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:03:34","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"TAKEMONEY 2000000","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:03:40","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"TAKEMONEY 200000","factions":[]}
+{"action":26,"origin":"ch16","date":"2021-09-16T16:04:24","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Purchase logs: FREE GAMECOINS AWARD! (OWNER ALEJANDRO) - Cost: 1000 GCs","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:04:24","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"givegamecoins GCs: 1000 Reason: .","factions":[]}
+{"action":26,"origin":"ch16","date":"2021-09-16T16:04:37","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Purchase logs: Automatically open any road tolling from 40 meters away - Cost: -150 GCs","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:16:09","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":13,"origin":"ch16","date":"2021-09-16T16:16:13","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de fusil, que resuenan en los alrededores","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T16:16:15","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5218 - Carcasa de la cáscara - 11 casings of 7.62mm @ (-574.88019, -85.288284, 63.540417) in (int 0, dim 0)","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T16:16:20","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5219 - Carcasa de la cáscara - 17 casings of 7.62mm @ (-574.00067, -84.428009, 63.518452) in (int 0, dim 0)","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:16:21","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister reloads his AK-47.","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T16:16:42","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":31,"origin":"ch16","date":"2021-09-16T16:16:43","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:17:07","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:17:52","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:22:15","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":27,"origin":"ac69","date":"2021-09-16T16:25:23","phones":[],"objects":[],"characters":[],"vehicles":[],"interiors":[],"accounts":[69],"content":"Conectado desde 26.77.107.91 - BC2D4003DD87B57C06C10CE5D1EB7A94","factions":[]}
+{"action":27,"origin":"ac69","date":"2021-09-16T16:25:47","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[69],"content":"Created","factions":[]}
+{"action":27,"origin":"ac69","date":"2021-09-16T16:25:49","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[69],"content":"Spawned","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:26:14","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"estoy haciendo la prueba si no contesto asjkdkj","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:26:16","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"q lo que","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:26:20","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"siva","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:27:33","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Ale","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:27:36","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"dime","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:27:38","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"tq","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:27:54","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"and my","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:27:59","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"mori","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:28:08","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"and my ¿","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:28:09","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"\/sethp luka 100","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:28:18","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"and my for you","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:28:20","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:28:22","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"owww","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:28:23","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"\/sethp luka 100","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:28:24","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"SETHP 100","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:28:27","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T16:28:33","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:29:00","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T16:29:16","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:29:18","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister attempts to start the engine but fails.","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T16:29:23","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:29:26","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister attempts to start the engine but fails.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:29:32","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister attempts to start the engine but fails.","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T16:29:38","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T16:29:39","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:29:48","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister attempts to start the engine but fails.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:30:04","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:31:01","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"este otro job","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:31:03","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"vite","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:31:05","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"okok, afk","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:31:07","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"ta weno","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:31:38","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister rolls their windows up.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:31:41","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister adjusts the radio volume.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:32:07","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:32:28","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:35:09","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:35:40","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:36:13","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"como te va con el examen oral 7u7","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:36:15","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"bue","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:37:37","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"listopp","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:37:39","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"no era oral kjsadjk","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:37:44","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"escrito, easy+","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:37:47","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"nno entendiste xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:37:55","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"ah, doble sentido","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:37:57","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"KSADKJK","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:38:02","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"bien 7u7","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:38:08","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"fino pa","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:38:20","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"al fin pude arreglar los vehs","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:38:23","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"de los jobs","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:38:24","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"vite","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:38:28","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"que problem tenian?","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:38:36","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"no tenian gasolina","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:38:39","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Ahhh","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:38:42","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"ni los podian prender los users","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:38:50","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"como el avión de fumigador","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:38:54","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"sacto","factions":[]}
+{"action":19,"origin":"ch90","date":"2021-09-16T16:39:10","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English Kjsadnjk","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:39:15","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:39:15","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"u ´pifie","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:39:21","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"ale","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:39:24","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"quieto","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:39:26","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"dime","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:39:43","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"andai re feli hoy","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:39:49","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"puede ser","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:39:51","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"te cogiste a lucia o q xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:39:54","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"no","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:39:58","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"never","factions":[]}
+{"action":31,"origin":"ch16","date":"2021-09-16T16:39:59","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:40:03","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:40:06","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"tonces","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:40:10","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"q te tiene asi","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:40:17","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"nada","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:40:34","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"no puedo ser aci¿","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:40:38","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"ne","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:40:40","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"bue","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:40:41","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"pq","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:40:55","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"e joda xd","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:41:00","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:41:06","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"no se no se","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:41:07","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"proba a ver si te deja usar este job","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:41:16","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"aqui","factions":[]}
+{"action":13,"origin":"ch16","date":"2021-09-16T16:41:21","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de fusil, que resuenan en los alrededores","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T16:41:23","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5220 - Carcasa de la cáscara - 7.62mm casing @ (193.32423, -205.62462, 0.578125) in (int 0, dim 0)","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:41:23","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"espera q no me anda el mouse","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T16:41:24","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5221 - Carcasa de la cáscara - 2 casings of 7.62mm @ (193.29811, -205.78882, 0.578125) in (int 0, dim 0)","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:41:26","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"a","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:41:27","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:41:31","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"ta","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T16:42:22","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Como me saco estoo","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T16:42:24","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria se cambia de ropa.","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T16:42:26","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Listo","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T16:42:28","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Si funciona","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:43:05","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"yo le veía futuro al servidorp","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T16:43:16","phones":[],"objects":[5220],"characters":[],"vehicles":[],"interiors":[],"accounts":[],"content":"~World #5220 @ (193.32423400879, -205.62461853027, 0.578125) in (int 0, dim 0) ->Luka_Beccaria - Carcasa de la cáscara - 7.62mm casing","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T16:43:16","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria bends over and picks up a Carcasa de la cáscara.","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T16:43:18","phones":[],"objects":[5221],"characters":[],"vehicles":[],"interiors":[],"accounts":[],"content":"~World #5221 @ (193.29811096191, -205.78881835938, 0.578125) in (int 0, dim 0) ->Luka_Beccaria - Carcasa de la cáscara - 2 casings of 7.62mm","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T16:43:18","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria bends over and picks up a Carcasa de la cáscara.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:43:32","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se cambia de ropa.","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:43:38","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"el tema es que tuvo mal staff","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:43:48","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"peroo se podía cambiar","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:43:55","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"si supieras que hasta el dia de hoy sigo descubriendo AAs","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:43:57","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:44:06","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"mios? yo solo me daba fix KJSDAKJ","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:44:09","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"no de vo xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:44:14","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"lol","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:44:26","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"debería haber hecho una limpieza","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:44:34","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"ya el daño estaba hecho","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:44:39","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"¿Por?","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:44:52","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"aparte que dreko y eladmin se la pasaban tirando paja con los users","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:45:09","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"tirando paja q seria? JKSAJKD no entendo","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:45:17","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"como hablar mierda\/mentiras","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:45:30","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"de nosotros?","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:45:54","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"cuando estabas vos si, luego con Angel deps conmigo unicamente","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:46:10","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"De que lo hagan hacía mi podría esperarmelo","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:46:29","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Mi aqui, va a estar una faccion que va a ser camioneros vie","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:46:32","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"vite\"","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:46:32","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Mira que no pedía solicitud de ban o banearlos pq tenía paciencia","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:46:36","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"cool","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:47:03","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Dreko se la paso tirando mierda disque hice MG","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:47:12","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"luego cuando le pase las pruebas se quedo callado","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:47:17","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"pq MG?","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:47:26","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"y dijo que no iba a hablar porque lo iba a degradar","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:47:39","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"y cuando mostre las pruebas de toxicidad por las que lo degrade","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:47:44","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Ahhh","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:47:44","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"dijo \"Sabes que me voy\"","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:48:11","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Lit lo deje callado al frente de Kat y TheDark","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:48:16","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"y eso fue lo que hizo","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:48:25","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"alta verguenz","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:48:26","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"deps demostrando que tenia razon mando spam xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:48:41","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"a todo el sv?","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:48:44","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"si","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:48:48","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"lool","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:48:53","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"q inmadurez","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:48:54","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"mira este es un barrio","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:48:59","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"viste","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:49:00","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"me encanta","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:49:16","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"no pensas en abrirlo de nuevo al sv¿?","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:49:30","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"falta la plata pal host y el staff","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:49:36","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"solo tengo que si 2 pal staff","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:49:38","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"el staff se consigue","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:49:43","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"y uno ta medio medio no sabe","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:49:46","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"de alguna u otra forma","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:50:04","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"el hostt deberías conseguirte mercado pago o pago facil","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:50:15","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"mercado pago es local","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:50:21","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"solo del mismo pais al mismo pais","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:50:35","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"paypal ami no me deja :(","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:50:43","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"este es el segundo job de la cantera","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:50:45","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T16:50:55","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Pizzero?","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:50:56","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"a","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:50:57","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"wtf","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T16:50:57","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Xd","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:51:02","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"a","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:51:08","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"se me olvido cambiar algo","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:51:09","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"un seg","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T16:51:10","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Se me bugeo el panel","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T16:51:58","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Relogeo","factions":[]}
+{"action":27,"origin":"ac69","date":"2021-09-16T16:52:00","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[69],"content":"Disconnected (Quit) (Name: Luka_Beccaria)","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:53:16","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se cambia de ropa.","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:54:48","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":27,"origin":"ac69","date":"2021-09-16T16:55:00","phones":[],"objects":[],"characters":[],"vehicles":[],"interiors":[],"accounts":[69],"content":"Conectado desde 26.77.107.91 - BC2D4003DD87B57C06C10CE5D1EB7A94","factions":[]}
+{"action":27,"origin":"ac69","date":"2021-09-16T16:55:09","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[69],"content":"Spawned","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T16:55:13","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Ola mi amor","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T16:55:19","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T16:56:05","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"mf a comprar, afk 15","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:56:57","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"aqui puse el coso de poner antorchas","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:57:02","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"y luego el de leñador","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:57:05","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"lo movi xd","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T16:57:56","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister attempts to start the engine but fails.","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T16:58:06","phones":[],"objects":[],"characters":[90],"vehicles":[38],"interiors":[],"accounts":[],"content":"FUELVEH","factions":[]}
+{"action":31,"origin":"ch16","date":"2021-09-16T16:58:07","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T16:58:42","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"mientras tanto voy a tomar SS a los mapeos xd","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:58:54","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T16:59:49","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:03:23","phones":[],"objects":[],"characters":[],"vehicles":[293],"interiors":[],"accounts":[],"content":"RESPAWN","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:03:30","phones":[],"objects":[],"characters":[],"vehicles":[293],"interiors":[],"accounts":[],"content":"RESPAWN","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T17:03:41","phones":[],"objects":[],"characters":[],"vehicles":[],"interiors":[],"accounts":[],"content":"FACTION RESPAWN for 1","factions":[1]}
+{"action":31,"origin":"ch16","date":"2021-09-16T17:03:52","phones":[],"objects":[],"characters":[16],"vehicles":[293],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:04:08","phones":[],"objects":[],"characters":[],"vehicles":[293],"interiors":[],"accounts":[],"content":"PARK","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T17:04:16","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:09:16","phones":[],"objects":[],"characters":[],"vehicles":[296],"interiors":[],"accounts":[],"content":"DELVEH","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:10:24","phones":[],"objects":[],"characters":[],"vehicles":[262],"interiors":[],"accounts":[],"content":"DELVEH","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:16:07","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"bolbi amor","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:16:22","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"justo acababa de tomar las SS","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:16:23","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":13,"origin":"ch16","date":"2021-09-16T17:16:38","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de fusil, que resuenan en los alrededores","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T17:16:39","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5222 - Carcasa de la cáscara - 7.62mm casing @ (-613.83185, -81.219879, 62.740894) in (int 0, dim 0)","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T17:16:41","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5223 - Carcasa de la cáscara - 7.62mm casing @ (-614.32538, -80.457542, 62.755955) in (int 0, dim 0)","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T17:16:45","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5224 - Carcasa de la cáscara - 5 casings of 7.62mm @ (-613.48511, -80.868523, 62.675194) in (int 0, dim 0)","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:16:53","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"aqui tan 2 jobs","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:16:54","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:16:59","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":":((","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:17:04","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"me ofendi","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:17:05","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"adios","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:17:08","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"yo solo beso a lucia","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:17:10","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"bue","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T17:17:18","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria's left leg was hit.","factions":[]}
+{"action":34,"origin":"ch90","date":"2021-09-16T17:17:18","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":" got killed by Bill Hollister (AK-47)","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T17:17:20","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5225 - Carcasa de la cáscara - 4 casings of 7.62mm @ (-601.52942, -87.07827, 62.892601) in (int 0, dim 0)","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T17:17:29","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"REVIVED from PK","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T17:17:33","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5226 - Carcasa de la cáscara - 7.62mm casing @ (-568.70062, -91.65168, 63.225754) in (int 0, dim 0)","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T17:17:34","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria's right leg was hit.","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:17:36","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"-.-","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:17:39","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"ofendido","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:18:03","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":":((","factions":[]}
+{"action":13,"origin":"ch16","date":"2021-09-16T17:18:07","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de rifle, que resuenan en los alrededores","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T17:18:08","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5227 - Carcasa de la cáscara - 7.62mm casing @ (-581.2171, -155.87672, 77.169731) in (int 0, dim 0)","factions":[]}
+{"action":34,"origin":"ch90","date":"2021-09-16T17:18:10","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":" got killed by Bill Hollister (Sniper)","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T17:18:11","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5228 - Carcasa de la cáscara - 7.62mm casing @ (-581.2179, -155.88803, 77.171204) in (int 0, dim 0)","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T17:18:18","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"REVIVED from PK","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:18:20","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":":((((((((","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:18:32","phones":[],"objects":[],"characters":[],"vehicles":[38],"interiors":[],"accounts":[],"content":"getveh","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:19:39","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"quedate alli un seg xD","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:19:52","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"-.-","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:20:25","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"me vas a matar -.-","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:21:00","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"ne xd","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:21:16","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"-.-","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:22:44","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:23:00","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"aprecia el cielo","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:23:15","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"i see the sky","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:24:22","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"fumigao ","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:24:32","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"JKSADKJJK","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:24:39","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"sigo ofendido igual -.-","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:25:06","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"ya sabe q me cuido pa lucia","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:25:08","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"buee ","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:25:40","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:26:09","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"y si lucia no te quiere?","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:26:49","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"no digai eso q me da un patatuz","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:26:59","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"puede pasar, ahora no quiere andar dse novios","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:27:29","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"quien dijo q la queria pa novia, solo pa culiar vite","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:27:36","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"aleee!!!!!!!!","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:27:45","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"si me volvio loco en la reunion que duro 5 segundos","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:27:51","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"por lo desconcentrada que es","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:27:52","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"KJSAKJDJK","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:27:53","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"xd ","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:27:56","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"si lo es","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:27:59","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se cambia de ropa.","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:28:10","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: :0","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:29:20","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"puess eso","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:29:31","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"y vo sabe q me desespero muy rapido","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:29:41","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"por mi nunca te desesperaste :\/","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:29:53","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"nunca llegaste al limite de lucia xd","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:30:00","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"al menos conmigo","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:30:08","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"a q te referís","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:30:20","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"yo y lucia somos gemelos mas o menos","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:30:30","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"q te toy hablando del agua y sales con un oso xd","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:30:37","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"KJSADKJKJ","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:30:45","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: U","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:30:51","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"perdón, lucia hace lo mismo igual !!","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:31:03","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"gemelos, asi que si te culeo vas a saber igual","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:31:04","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"bue ","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:31:09","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"igual ella es la parte depresiva y yo la felis","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:31:13","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"puede ser","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:31:13","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"estoy hablando de que lucia hace eso y vo eso no","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:31:14","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"xd ","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:31:23","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"que hace lucia q yo no","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:31:26","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"la tarea","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:31:27","phones":[],"objects":[],"characters":[90],"vehicles":[38],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:31:35","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"lo que te dije del agua y el oso","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:31:49","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"yo tmb lo hago","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:31:59","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"depende si me interesa el tema","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:32:05","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"por lo menos conmigo no lo has hecho xd","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:32:10","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"con vos","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:32:16","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"lucia deprevisa 7U7","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:32:17","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"BUE ","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:32:24","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Sale culiada rapida","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:32:55","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Che viste que ahora se cargan mejor los mapeos, un pana de brasil me paso un script","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:32:56","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"qsyo","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:33:00","phones":[],"objects":[],"characters":[90],"vehicles":[38,38],"interiors":[],"accounts":[],"content":"English: INCAR Agua","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:33:04","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Ahora el oso","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:33:11","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"y ahora cargan desde mas lejos las cosas modificadas, y menos lag","factions":[]}
+{"action":15,"origin":"ch16","date":"2021-09-16T17:33:12","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"xd ","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:33:23","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"ayuda","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:33:26","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"mas+fps","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:33:26","phones":[],"objects":[],"characters":[],"vehicles":[38],"interiors":[],"accounts":[],"content":"getveh","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T17:33:40","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:33:46","phones":[],"objects":[],"characters":[90],"vehicles":[38],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:34:22","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"afk 3m","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:34:38","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"naguevonada empezo a llover xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:38:33","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"internet de ale cae","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:38:46","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:38:51","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"capaz","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:38:53","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:39:11","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bueno Luka, ya con tu ip consegui tu instagram y tus cuentas","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:39:18","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"y ahora voy a culiarme a lucia","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:39:20","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"decime mi ig","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:39:21","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"bue","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:39:33","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"lukap_2007","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:39:41","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"ni en narnia","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:40:05","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:40:16","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":31,"origin":"ch16","date":"2021-09-16T17:40:17","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:40:18","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:41:02","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:41:17","phones":[],"objects":[],"characters":[90],"vehicles":[38,38],"interiors":[],"accounts":[],"content":"English: INCAR Sube puta","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:41:35","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"puse el \/eyo","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:41:37","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"se ponia \/yo","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:41:49","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"estuve intentando todo eld ia hoy","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:41:53","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"que se guardara en la sql","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:41:59","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"pero no se guarda la cagada","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:42:03","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"kjkjsadjk","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:42:05","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:42:14","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"casi lloraba de la arrechera","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:42:16","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"bueeeeee","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:42:24","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"ale iora","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:42:26","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":13,"origin":"ch16","date":"2021-09-16T17:42:30","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de fusil, que resuenan en los alrededores","factions":[]}
+{"action":34,"origin":"ch90","date":"2021-09-16T17:42:30","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":" got killed by Bill Hollister (AK-47)","factions":[]}
+{"action":39,"origin":"ch16","date":"2021-09-16T17:42:31","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5229 - Carcasa de la cáscara - 7.62mm casing @ (520.74005, 477.91324, 17.929688) in (int 0, dim 0)","factions":[]}
+{"action":4,"origin":"ch16","date":"2021-09-16T17:42:34","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"REVIVED from PK","factions":[]}
+{"action":6,"origin":"ch16","date":"2021-09-16T17:42:42","phones":[],"objects":[],"characters":[16],"vehicles":[38],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:42:43","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:42:54","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[],"content":"mañana sacan la temporada de sex education","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:43:02","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"encontre el ig de alg de m,mi clase lol","factions":[]}
+{"action":40,"origin":"ch16","date":"2021-09-16T17:43:39","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:43:45","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"sabe q esto","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:43:54","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"GUARDIA NACIONAL","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:44:04","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"dice 1989","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:44:08","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"w","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:44:09","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"BUNKER","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:44:39","phones":[],"objects":[],"characters":[90,16],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Noo","factions":[]}
+{"action":8,"origin":"ch16","date":"2021-09-16T17:44:59","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"viste una base oculta de operazaos","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:45:07","phones":[],"objects":[],"characters":[16,90],"vehicles":[],"interiors":[],"accounts":[],"content":"sim","factions":[]}
+{"action":27,"origin":"ac1","date":"2021-09-16T17:45:47","phones":[],"objects":[],"characters":[16],"vehicles":[],"interiors":[],"accounts":[1],"content":"Disconnected (Quit) (Name: Bill_Hollister)","factions":[]}
+{"action":19,"origin":"ch90","date":"2021-09-16T17:46:12","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"English Helpo","factions":[]}
+{"action":27,"origin":"ac1","date":"2021-09-16T17:52:25","phones":[],"objects":[],"characters":[],"vehicles":[],"interiors":[],"accounts":[1],"content":"Conectado desde 26.159.76.54 - 6EC9AEABE01AAB0798611259447BA2A2","factions":[]}
+{"action":27,"origin":"ac1","date":"2021-09-16T17:53:14","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[1],"content":"Spawned","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T17:53:33","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"dame admin","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:53:44","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Ese lag","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T17:53:51","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pasa lag","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T17:53:51","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pack\"","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:53:56","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"bueno","factions":[]}
+{"action":7,"origin":"ch2","date":"2021-09-16T17:54:26","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Sit","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:54:30","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Why","factions":[]}
+{"action":7,"origin":"ch2","date":"2021-09-16T17:54:37","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Sit now","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:54:41","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Whyy","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T17:54:42","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:54:52","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: I am scared","factions":[]}
+{"action":7,"origin":"ch2","date":"2021-09-16T17:55:07","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":"English: I am mke to you my wife","factions":[]}
+{"action":7,"origin":"ch2","date":"2021-09-16T17:55:11","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":"English: My girl","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:55:11","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Ohhh","factions":[]}
+{"action":12,"origin":"ch2","date":"2021-09-16T17:55:44","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"make to \"Luka\" your girl","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:55:51","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"español please","factions":[]}
+{"action":12,"origin":"ch90","date":"2021-09-16T17:56:07","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"comer dick de Bill","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T17:56:12","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:56:31","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Me culeas y te vas","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:56:32","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Asi sos","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T17:56:42","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"SET INTO FACTION LEADER","factions":[8]}
+{"action":8,"origin":"ch2","date":"2021-09-16T17:57:09","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"aqui se entrenaria","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:57:56","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Gane","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:58:11","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Y esto","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T17:58:35","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"para entrenar el rapel","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T17:58:42","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"rapel?","factions":[]}
+{"action":6,"origin":"ch2","date":"2021-09-16T17:58:49","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"VEH 79 created with ID -1","factions":[]}
+{"action":31,"origin":"ch2","date":"2021-09-16T17:58:55","phones":[],"objects":[],"characters":[2],"vehicles":[-1],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T17:58:59","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":31,"origin":"ch2","date":"2021-09-16T17:59:15","phones":[],"objects":[],"characters":[2],"vehicles":[-1],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T17:59:30","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"\/rapel","factions":[]}
+{"action":31,"origin":"ch2","date":"2021-09-16T17:59:44","phones":[],"objects":[],"characters":[2],"vehicles":[-1],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T17:59:51","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Lol","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T17:59:54","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":31,"origin":"ch90","date":"2021-09-16T18:00:05","phones":[],"objects":[],"characters":[90],"vehicles":[-1],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":31,"origin":"ch90","date":"2021-09-16T18:00:33","phones":[],"objects":[],"characters":[90],"vehicles":[-1],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:00:34","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria locks the vehicle doors.","factions":[]}
+{"action":31,"origin":"ch90","date":"2021-09-16T18:00:34","phones":[],"objects":[],"characters":[],"vehicles":[-1],"interiors":[],"accounts":[],"content":"LOCK FROM INSIDE","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:00:36","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria unlocks the vehicle doors.","factions":[]}
+{"action":31,"origin":"ch90","date":"2021-09-16T18:00:36","phones":[],"objects":[],"characters":[],"vehicles":[-1],"interiors":[],"accounts":[],"content":"UNLOCK FROM INSIDE","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:00:44","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria locks the vehicle doors.","factions":[]}
+{"action":31,"origin":"ch90","date":"2021-09-16T18:00:44","phones":[],"objects":[],"characters":[],"vehicles":[-1],"interiors":[],"accounts":[],"content":"LOCK FROM INSIDE","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:00:47","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria unlocks the vehicle doors.","factions":[]}
+{"action":31,"origin":"ch90","date":"2021-09-16T18:00:47","phones":[],"objects":[],"characters":[],"vehicles":[-1],"interiors":[],"accounts":[],"content":"UNLOCK FROM INSIDE","factions":[]}
+{"action":34,"origin":"ch2","date":"2021-09-16T18:00:48","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":" got killed by an unknown source","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:00:53","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"REVIVED from PK","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:00:55","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"AY TE MATE","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:01:03","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria attempts to start the engine but fails.","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:01:59","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEWEAPON M4 mp9tN8brOubMmvWRmHb8","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:02:05","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM 5.56mm (50 rounds, serial: 'mt9tN8brmugMmvWRmHb8').","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:02:06","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM 5.56mm (50 rounds, serial: 'OF9tN8brmHgMmvWRmHb8').","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:02:15","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria reloads her M4.","factions":[]}
+{"action":13,"origin":"ch90","date":"2021-09-16T18:02:27","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de fusil, que resuenan en los alrededores","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:02:28","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5230 - Carcasa de la cáscara - 3 casings of 5.56mm @ (-638.80768, 1008.4249, 14.504741) in (int 0, dim 0)","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:02:31","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5231 - Carcasa de la cáscara - 7 casings of 5.56mm @ (-638.63464, 1008.3861, 14.500171) in (int 0, dim 0)","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:02:34","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5232 - Carcasa de la cáscara - 3 casings of 5.56mm @ (-638.29419, 1009.651, 14.426834) in (int 0, dim 0)","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:02:44","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Reproductor MP3 1","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:02:48","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria reloads her M4.","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:02:54","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister Destruye un GPS portable.","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T18:03:35","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"tramposo","factions":[]}
+{"action":13,"origin":"ch90","date":"2021-09-16T18:03:38","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de fusil, que resuenan en los alrededores","factions":[]}
+{"action":6,"origin":"ch2","date":"2021-09-16T18:03:40","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"VEH 79 created with ID -2","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:03:43","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5233 - Carcasa de la cáscara - 24 casings of 5.56mm @ (-639.07678, 965.88831, 10.642895) in (int 0, dim 0)","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:03:44","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria reloads her M4.","factions":[]}
+{"action":6,"origin":"ch2","date":"2021-09-16T18:03:46","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"VEH 79 created with ID -3","factions":[]}
+{"action":31,"origin":"ch2","date":"2021-09-16T18:03:53","phones":[],"objects":[],"characters":[2],"vehicles":[-3],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:04:00","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":7,"origin":"ch90","date":"2021-09-16T18:04:45","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"English: Algun dia te vas a retirar de mta?","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:04:55","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ya lo he hecho varias veces","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:05:05","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:05:15","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"kajsdkj cuando cerraste el sv ejemplo?","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:05:29","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"es que yo en verdad no quiero seguir en mta","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:05:35","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"quisiera usar FiveM","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:05:37","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"viste","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:05:39","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"x2","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:05:43","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pero kk pc","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:05:44","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister locks the vehicle doors.","factions":[]}
+{"action":31,"origin":"ch2","date":"2021-09-16T18:05:44","phones":[],"objects":[],"characters":[],"vehicles":[-3],"interiors":[],"accounts":[],"content":"LOCK FROM INSIDE","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:05:46","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister unlocks the vehicle doors.","factions":[]}
+{"action":31,"origin":"ch2","date":"2021-09-16T18:05:46","phones":[],"objects":[],"characters":[],"vehicles":[-3],"interiors":[],"accounts":[],"content":"UNLOCK FROM INSIDE","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:05:49","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ese es el problema","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:06:17","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:06:58","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"viste","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:07:00","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"esto","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:07:03","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"y el bunker","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:07:09","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"es de Hollister and Sewell Inc","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:07:10","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"si","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:07:17","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"son como propiedades abandonadas","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:07:21","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"del gobierno","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:07:24","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pero activas","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:07:27","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"y luego se compran","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:07:36","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"muchas mafias han hecho asi en USA","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:07:37","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:07:41","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"JKASJDK","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:07:50","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ale mafioso","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:07:57","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"empresario","factions":[]}
+{"action":31,"origin":"ch2","date":"2021-09-16T18:07:58","phones":[],"objects":[],"characters":[2],"vehicles":[-3],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:07:59","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:08:02","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"alsndkj","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:09:02","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"esto si es de la guarid nacional","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:09:11","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"la base normal","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:09:14","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ne","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:09:17","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ta modificada","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:09:22","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"un poco","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:09:25","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"sa","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:09:27","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"uwu","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:09:34","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"aaa","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:09:38","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"mira este int q hice","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:09:53","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"miro","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:10:06","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"esta en LS asi q vamos a tardar un poco xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:10:11","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no pasa nada","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:12:38","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"un seg","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:12:46","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"q lo mande a la dimension 70 xD","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:12:50","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"KJKJ","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:13:30","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"alli ta","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:13:46","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"descargandos","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:14:00","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:14:01","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:14:02","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"a vee","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:14:16","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"y esto le voy a poner el \/adde y ya","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:14:23","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"lool","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:14:40","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ta buenisimoo","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:14:46","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"esto es lo del radar viste","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:14:50","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"sismi","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:14:52","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pal areopuerto","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:15:09","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"viste mi \/eyo","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:15:17","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Esposo de Lucia dice","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:15:24","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:15:28","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister's left leg was hit.","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:15:30","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:15:38","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no","factions":[]}
+{"action":31,"origin":"ch2","date":"2021-09-16T18:15:42","phones":[],"objects":[],"characters":[2],"vehicles":[-3],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:15:47","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:15:51","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"zi","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:16:27","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"nu","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:16:31","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"yo solo esposo de ale","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:16:43","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"viste altos mapeos los de LS","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:16:52","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"seeep","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:16:52","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:18:49","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"veee","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:18:56","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"sos mui pro","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:18:57","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"vo no hace eso","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:19:03","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"por argentino","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:19:04","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"buee","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:19:07","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":":\/","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:19:11","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xD","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:19:17","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"calla veneco","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:19:27","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"los argentinos solo juegan al futbol","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:19:34","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"y","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:19:58","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"sos hacker no se vale","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:20:16","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Altavoz 1","factions":[]}
+{"action":39,"origin":"ch2","date":"2021-09-16T18:20:23","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill_Hollister -> ~World #5234 - Altavoz - 1 @ (1920.115, -1798.9862, 12.546875) in (int 0, dim 0)","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:20:23","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister dropped a Altavoz.","factions":[]}
+{"action":13,"origin":"ch90","date":"2021-09-16T18:20:55","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de fusil, que resuenan en los alrededores","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:20:55","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister's right leg was hit.","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:20:55","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister's left arm was hit.","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:20:55","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister's left leg was hit.","factions":[]}
+{"action":34,"origin":"ch2","date":"2021-09-16T18:20:55","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":" got killed by Luka Beccaria (M4)","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:20:59","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5235 - Carcasa de la cáscara - 24 casings of 5.56mm @ (1923.3427, -1805.4082, 12.825015) in (int 0, dim 0)","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:21:00","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria reloads her M4.","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:21:02","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"REVIVED from PK","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:21:13","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"q paja","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:21:16","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"el q","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:21:23","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"noc todo xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:21:31","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"vivir un ejemplo","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:21:46","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"paja volver a clase presencial","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:21:54","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"mande muchos a la mierda en cuarentena xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:21:57","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"cuanto medis ale?","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:22:02","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"KJNADSK ale ortiva","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:22:03","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"1.70 y tanto","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:22:05","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"por?","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:22:08","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pregunto","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:22:17","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"y vo?","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:22:23","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"creo qqq 1.57","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:22:27","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"lucia 1.59","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:22:34","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no tenias 15?","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:22:37","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"si","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:22:40","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"wtf","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:22:41","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:22:43","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"KJSADKJ","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:22:43","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"re pequeños","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:22:46","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"calla","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:23:00","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"yo ahorita el 2 de enero cumplo 16 años sin bañarme :D","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:23:04","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"JKASNDJK","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:23:08","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"yo el 4 de mayo","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:23:26","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"asi se pa cuando mandar el golpe de estado en Arg","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:23:27","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"vite","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:23:32","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"JKASDJK","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:23:56","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ale aburrido de la vida","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:23:56","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Q paja la vida Lukap","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:24:00","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pq","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:24:15","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"paja","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:24:26","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"casi no tengo nada q hacer","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:24:33","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"yo tengo q hacer tarea","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:24:37","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"mal","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:24:48","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"en Vnz ni se sabe cuando vamos a iniciar clases xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:24:56","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"todo culpa de maduro","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:25:07","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Es q segun ellos","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:25:10","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"yo empeze el mes pasado","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:25:16","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"iban a vacunarnos a todos los alumnos","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:25:23","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pero como no hay vacunas","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:25:29","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no hay clases","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:25:30","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no podemos inciar presencial","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:25:31","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:25:39","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"aca no es necesario estar vacunados, solo los profes","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:25:54","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"aqui ni los profes tan vacunados xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:25:58","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"kjasndkj","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:26:13","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"bue ni siquiera la primera oleada de vacunacion ta cumpleta xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:26:24","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"un disaster","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:26:27","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"tq ale","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:26:32","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"yo tmb","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:26:35","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"aww","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:26:59","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"q vas a hacer detuvida","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:27:06","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"yo roleo a veces en proyecto mila","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:27:10","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Nocc","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:27:16","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"me de paja rolear en otros servers","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:27:29","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"por empezar de 0 decis¿","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:27:34","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ahorita ya solo me faltan 5$ y me compro mi movil gg","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:27:43","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ou yea","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:27:45","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no entenderias","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:27:48","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"yo tengo q arreglar el mio","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:27:56","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"es raro ser owner y luego user","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:27:57","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:28:05","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"KLASKL","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:28:08","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"cosas de lideres","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:28:19","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"reparalo","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:28:23","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"dame la moni","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:28:26","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"q voy a necesitar contactos","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:28:28","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"seran como 50usd","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:28:29","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"lit perdi todos","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:28:31","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:28:51","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"KJSAKJ espero q no me pase eso","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:28:52","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"50usd, dile a lucia q te de plata de su onlyfans","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:29:05","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"noledan","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:29:44","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"yo pensaba q Ale era los q le hablaban 50 personas x día","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:29:51","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ne","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:29:54","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"antes si","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:30:06","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pero me daba paja","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:30:09","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"JASDKJ","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:30:15","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ale, pasa ig","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:30:21","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"josealehv","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:30:57","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"chico fuckbo","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:30:58","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"chico fuckboy","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:31:05","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"mira mi viejo instagram","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:31:06","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:31:10","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"a ver","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:31:15","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"thejoseahvold","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:31:17","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"creo q eso","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:31:19","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"sino","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:31:24","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"thejosehvold","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:31:38","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"re pajero en ese momento","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:31:48","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"seguia c omo 50 carajas","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:31:58","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"KJASDJK","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:32:02","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"me acuerdo de ese igg","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:32:07","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"me lo pasaste hace mucho","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:32:10","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"como q te acuerdas","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:32:11","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:32:33","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"hace muchoo","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:32:35","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"me lo pasaste","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:32:38","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"nidea","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:32:46","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"fue hace bastante","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:32:55","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka el enamora argentinas","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:32:59","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:33:03","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"luka pasa link de zoom","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:33:08","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"de tu clase","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:33:12","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no tenemos zoom+","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:33:19","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"pa cuadrarme jevass de tu salon","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:33:22","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"todo presencial","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:33:24","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"googlemeet","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:33:26","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":":c","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:33:29","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"nadap","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:34:09","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"alto sol xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:34:21","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"KJSADKJ","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:34:31","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"seguis igual a tu ig viejo o cambiaste?","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:34:36","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"cambie","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:34:45","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"a ver de que año es","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:34:55","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"del año pasao lo deje de user","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:35:00","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ahhh","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:35:05","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"lkasndkj","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:35:18","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"weon q fastidio perder los contactos","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:35:21","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"como seras ahora hpta","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:35:24","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"es lo peor","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:35:24","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"tenias jevas burda buenas","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:35:31","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"tenia\"","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:35:38","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"bill pajin","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:35:50","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"viste tenia hasta la de una jeva q se volvio modelo q era de mi colegio","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:35:51","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:35:57","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"lool","factions":[]}
+{"action":34,"origin":"ch90","date":"2021-09-16T18:36:58","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":" got killed by Bill Hollister (Fist)","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:37:06","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"REVIVED from PK","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:37:10","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"soy tan bueno q dejo que me mates","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:37:15","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"xD","factions":[]}
+{"action":13,"origin":"ch90","date":"2021-09-16T18:37:33","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de fusil, que resuenan en los alrededores","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:37:35","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5236 - Carcasa de la cáscara - 2 casings of 5.56mm @ (1931.3019, -1800.2657, 13.460031) in (int 0, dim 0)","factions":[]}
+{"action":6,"origin":"ch2","date":"2021-09-16T18:37:36","phones":[],"objects":[],"characters":[],"vehicles":[38],"interiors":[],"accounts":[],"content":"getveh","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:37:40","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5237 - Carcasa de la cáscara - 4 casings of 5.56mm @ (1931.5396, -1800.6824, 13.336857) in (int 0, dim 0)","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:37:41","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5238 - Carcasa de la cáscara - 5.56mm casing @ (1931.5282, -1800.645, 13.3479) in (int 0, dim 0)","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:37:44","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se abrocha el cinturón de seguridad.","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:37:45","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5239 - Carcasa de la cáscara - 7 casings of 5.56mm @ (1929.6322, -1799.2797, 13.751562) in (int 0, dim 0)","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:38:19","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"a donde vamo","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:38:29","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"noc","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:39:12","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"nunca te pones el cintu xd","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:39:17","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"me olvido","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:39:18","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"SETHP 100","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:39:21","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":6,"origin":"ch2","date":"2021-09-16T18:39:25","phones":[],"objects":[],"characters":[2],"vehicles":[38],"interiors":[],"accounts":[],"content":"FIXVEH","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:39:26","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria se abrocha el cinturón de seguridad.","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:40:36","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"alee","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:40:40","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"dime","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:40:43","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"tq muxoi","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:41:29","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister adjusts the radio volume.","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:41:39","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"hi bestie","factions":[]}
+{"action":40,"origin":"ch2","date":"2021-09-16T18:42:13","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Bill Hollister se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:42:16","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria se desabrocha el cinturón de seguridad.","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:42:24","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"FREECAM","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:42:53","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"viste e barrio","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:43:01","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"si, ya me lo mostrastep","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:43:07","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"sa","factions":[]}
+{"action":4,"origin":"ch2","date":"2021-09-16T18:43:14","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:43:20","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"noc querei hacer algo xd?","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:43:28","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"sakdn como quieraqs","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:44:22","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"enterorgermina","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:44:37","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"u me cuesta leer eso","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:45:04","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"no escapes de mi amor","factions":[]}
+{"action":13,"origin":"ch90","date":"2021-09-16T18:45:11","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Se escucharía una serie de fuertes disparos de fusil, que resuenan en los alrededores","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:45:14","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5240 - Carcasa de la cáscara - 11 casings of 5.56mm @ (396.72238, 1083.1321, 23.386812) in (int 0, dim 0)","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T18:45:27","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no escapes de mi amor","factions":[]}
+{"action":19,"origin":"ch2","date":"2021-09-16T18:45:52","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":"English GG","factions":[]}
+{"action":39,"origin":"ch90","date":"2021-09-16T18:46:08","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka_Beccaria -> ~World #5241 - Carcasa de la cáscara - 5.56mm casing @ (433.37213, 1169.6838, 13.886813) in (int 0, dim 0)","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:46:51","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"ale","factions":[]}
+{"action":8,"origin":"ch2","date":"2021-09-16T18:46:54","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"dime","factions":[]}
+{"action":8,"origin":"ch90","date":"2021-09-16T18:46:55","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"me vo a come","factions":[]}
+{"action":40,"origin":"ch90","date":"2021-09-16T18:46:59","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"Luka Beccaria's left leg was hit.","factions":[]}
+{"action":15,"origin":"ch2","date":"2021-09-16T18:47:07","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":"buen provecho pa","factions":[]}
+{"action":31,"origin":"ch2","date":"2021-09-16T18:47:08","phones":[],"objects":[],"characters":[2],"vehicles":[38],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T18:47:11","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"gracias","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T18:47:19","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"quiero q sepas q tq muchisimo","factions":[]}
+{"action":15,"origin":"ch2","date":"2021-09-16T18:47:33","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":"y yo a lucia","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T18:47:38","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"no me importa","factions":[]}
+{"action":15,"origin":"ch2","date":"2021-09-16T18:47:38","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":"digo digo, y yo a ti","factions":[]}
+{"action":15,"origin":"ch2","date":"2021-09-16T18:47:40","phones":[],"objects":[],"characters":[2,90],"vehicles":[],"interiors":[],"accounts":[],"content":"bueee ","factions":[]}
+{"action":15,"origin":"ch90","date":"2021-09-16T18:47:49","phones":[],"objects":[],"characters":[90,2],"vehicles":[],"interiors":[],"accounts":[],"content":"nos vemosss","factions":[]}
+{"action":27,"origin":"ac69","date":"2021-09-16T18:47:52","phones":[],"objects":[],"characters":[90],"vehicles":[],"interiors":[],"accounts":[69],"content":"Disconnected (Quit) (Name: Luka_Beccaria)","factions":[]}
+{"action":27,"origin":"ac1","date":"2021-09-16T18:49:40","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[1],"content":"Disconnected (Quit) (Name: Bill_Hollister)","factions":[]}

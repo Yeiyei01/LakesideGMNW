@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="The Jose" type="misc" name="Skins Nine Nine" description="Skins Hombres" />
+     <script src="script.lua" type="client" />
+
+     <file src="andre.txd" />
+     <file src="andre.dff" />
+
+     <file src="d.txd" />
+     <file src="d.dff" />
+
+     <file src="janitor.txd" />
+     <file src="janitor.dff" />
+
+     <file src="privateModel3.txd" />
+     <file src="privateModel3.dff" />
+
+     <file src="Sam_Cotilla.txd" />
+     <file src="Sam_Cotilla.dff" />
+
+     <file src="sindaco.txd" />
+     <file src="sindaco.dff" />
+
+     <file src="swmycr_1.txd" />
+     <file src="swmycr_1.dff" />
+
+     <file src="swmyst.txd" />
+     <file src="swmyst.dff" />
+
+     <file src="TheJohn.txd" />
+     <file src="TheJohn.dff" />
+
+     <file src="vla3.txd" />
+     <file src="vla3.dff" />
+
+     <file src="bmycg.txd" />
+     <file src="bmycg.dff" />
+
+     <file src="wmymech.txd" />
+     <file src="wmymech.dff" />
+
+     <file src="hmyst.txd" />
+     <file src="hmyst.dff" />
+
+     <file src="maccer.txd" />
+     <file src="maccer.dff" />
+
+     <file src="vhmycr.txd" />
+     <file src="vhmycr.dff" />
+</meta>

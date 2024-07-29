@@ -1,0 +1,18 @@
+<meta>
+<info author="NicolasEcm" name="Sistema de Mascaras GTA V" version="1.0" type="script" />
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	<file src="Archivos/2212.dff"></file>
+	<file src="Archivos/2212.txd"></file>
+	<file src="Archivos/2213.dff"></file>
+	<file src="Archivos/2213.txd"></file>
+	<file src="Archivos/2214.dff"></file>
+	<file src="Archivos/2214.txd"></file>
+	<file src="Archivos/2215.dff"></file>
+	<file src="Archivos/2215.txd"></file>
+	<file src="Archivos/2216.dff"></file>
+	<file src="Archivos/2216.txd"></file>
+	<file src="Archivos/2217.dff"></file>
+	<file src="Archivos/2217.txd"></file>
+	<include resource="pattach"/>
+</meta>

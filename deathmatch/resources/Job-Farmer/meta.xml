@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+    <info author="Game Light" type="misc" name="Job Farmer" description="Job Farmer By Game Light" />
+
+	<script src="shared.lua" type="shared" cache="false"/>
+    <script src="farmer_c.lua" type="client" cache="false"/>
+    <script src="farmer_s.lua" type="server"/>
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+
+    <info author = 'Caio' name = 'Loadscreen' />
+
+    <script src = 'caioC.lua' type = 'client' cache = 'false' />
+    <script src = 'caioS.lua' type = 'server' />
+
+    <file src = 'files/pausar.png' />
+    <file src = 'files/despausar.png' />
+    <file src = 'files/fundo.png' />
+    <file src = 'files/logo.png' />
+
+    <download_priority_group>1</download_priority_group>
+
+</meta>

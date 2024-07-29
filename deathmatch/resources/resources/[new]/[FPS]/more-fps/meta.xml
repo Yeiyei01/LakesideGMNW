@@ -1,0 +1,17 @@
+﻿<meta>
+    <info author="N2QT" type="script" name="fpsincreaser" version="1.0.6" />
+
+    <script src="client.lua" type="client" />
+
+    <!-- Assets -->
+    <file src="assets/invisible.png" />
+    <file src="assets/shader.fx" />
+    <file src="assets/hidden.png" />
+    <file src="assets/8bit.fx" type="client" />
+
+    <file src="assets/treeshader.fx" />
+    <file src="assets/alpha.png" />
+
+    <file src="assets/texreplace.fx" />
+    <download_priority_group>-63</download_priority_group>
+</meta>

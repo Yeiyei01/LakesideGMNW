@@ -1,0 +1,81 @@
+<meta>
+    <info type="misc" name="Skins Nine Nine RP" author="The Jose" description="" version="1.3" />
+
+    <file src="pd1.txd" />
+    <file src="pd1.dff" />
+	
+    <file src="pd2.txd" />
+    <file src="pd2.dff" />
+	
+    <file src="pd3.txd" />
+    <file src="pd3.dff" />
+	
+    <file src="pd4.txd" />
+    <file src="pd4.dff" />
+	
+    <file src="pd5.txd" />
+    <file src="pd5.dff" />
+	
+    <file src="pd6.txd" />
+    <file src="pd6.dff" />
+	
+    <file src="pd7.txd" />
+    <file src="pd7.dff" />
+
+    <file src="FemalePolice.txd" />
+    <file src="FemalePolice.dff" />
+
+    <file src="army.txd" />
+    <file src="army.dff" />
+	
+    <file src="swatmujer.txd" />
+    <file src="swatmujer.dff" />
+	
+    <file src="swat.txd" />
+    <file src="swat.dff" />
+	
+    <file src="wfyclem.txd" />
+    <file src="wfyclem.dff" />
+
+    <file src="laemt1.txd" />
+    <file src="laemt1.dff" />
+	
+    <file src="lvemt1.txd" />
+    <file src="lvemt1.dff" /> 
+    
+    <file src="sfemt1.txd" />
+    <file src="sfemt1.dff" />
+
+    <file src="lafd1.txd" />
+    <file src="lafd1.dff" />
+
+    <file src="lvfd1.txd" />
+    <file src="lvfd1.dff" />
+
+    <file src="sffd1.txd" />
+    <file src="sffd1.dff" />
+    
+    <file src="kendl.txd" />
+    <file src="kendl.dff" />
+
+    <file src="wfycllv.txd" />
+    <file src="wfycllv.dff" />
+
+    <file src="dsher.txd" />
+    <file src="dsher.dff" />
+
+    <file src="detective.txd" />
+    <file src="detective.dff" />
+
+    <file src="bikerb.txd" />
+    <file src="bikerb.dff" />
+
+    <file src="Robber1.txd" />
+    <file src="Robber1.dff" />
+
+    <file src="Robber2.txd" />
+    <file src="Robber2.dff" />
+
+    <script type="client" src="replace.lua" cache="false" />
+
+</meta>

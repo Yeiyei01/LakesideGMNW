@@ -1,0 +1,83 @@
+<meta>
+    <oop>true</oop>
+    <info type="map" version="1.0.0"></info>
+
+    <script src="c_createObject.lua" type="client"/>
+    <script src="s_cleanup.lua" type="server" />
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client"></script>
+
+    <script src="s_gridsupport.lua" type="server"/>
+    <script src="c_gridsupport.lua" type="client"/>
+    <export function="restoreSA" type="client" />
+
+    <map src="Bank/NRP-Map-Bank.map" dimension="0"></map>
+
+    <map src="Bar/NRP-Map-Bar.map" dimension="0"></map>
+
+    <map src="Billboard/NRP-Map-Billboard.map" dimension="0"></map>
+
+    <map src="BusStation/NRP-Map-BusStation.map" dimension="0"></map>
+
+    <map src="Central/NRP-Map-Central.map" dimension="0"></map>
+
+    <map src="CityHall/NRP-Map-CityHall.map" dimension="0"></map>
+
+    <map src="Concessionaire/NRP-Map-Concessionaire.map" dimension="0"></map>
+
+    <map src="CourtHouse/NRP-Map-CourtHouse.map" dimension="0"></map>
+
+    <map src="Deposit/NRP-Map-Deposit.map" dimension="0"></map>
+
+    <map src="DillFarm/NRP-Map-DillFarm.map" dimension="0"></map>
+
+    <map src="Dumpster/NRP-Map-Dumpster.map" dimension="0"></map>
+
+    <map src="FuelStation/NRP-Map-FuelStation.map" dimension="0"></map>
+
+    <map src="HerreranaFarms/NRP-Map-HerreranaFarms.map" dimension="0"></map>
+
+    <map src="Hospital/NRP-Map-Hospital.map" dimension="0"></map>
+
+    <map src="Lookout/NRP-Map-Lookout.map" dimension="0"></map>
+
+    <map src="MinerTown/NRP-Map-MinerTown.map" dimension="0"></map>
+
+    <map src="MoreHouses/NRP-Map-MoreHouses.map" dimension="0"></map>
+
+    <map src="MoreRedCounty/NRP-Map-MoreRedCounty.map" dimension="0"></map>
+
+    <map src="MoreShops/NRP-Map-MoreShops.map" dimension="0"></map>
+
+    <map src="NewBusStation/NRP-Map-NewBusStation.map" dimension="0"></map>
+
+    <map src="NewFarm/NRP-Map-NewFarm.map" dimension="0"></map>
+
+    <map src="NewFortCarson/NRP-Map-NewFortCarson.map" dimension="0"></map>
+
+    <map src="NewHouse/NRP-Map-NewHouse.map" dimension="0"></map>
+
+    <map src="OldPrision/NRP-Map-OldPrision.map" dimension="0"></map>
+
+    <map src="Palomino/NRP-Map-Palomino.map" dimension="0"></map>
+
+    <map src="Pinic/NRP-Map-Pinic.map" dimension="0"></map>
+
+    <map src="PoorZoneandChurch/NRP-Map-PoorZoneandChurch.map" dimension="0"></map>
+
+    <map src="PortandVilla/NRP-Map-PortandVilla.map" dimension="0"></map>
+
+    <map src="Principal/NRP-Map-Principal.map" dimension="0"></map>
+
+    <map src="RoadAssistance/NRP-Map-RoadAssistance.map" dimension="0"></map>
+
+    <map src="RoadBlocks/NRP-Map-RoadBlocks.map" dimension="0"></map>
+
+    <map src="Sheriff/NRP-Map-Sheriff.map" dimension="0"></map>
+
+    <map src="SheriffStation/NRP-Map-SheriffStation.map" dimension="0"></map>
+
+    <map src="ShopandMotel/NRP-Map-ShopandMotel.map" dimension="0"></map>
+    
+    <map src="Workshop/NRP-Map-Workshop.map" dimension="0"></map>
+</meta>

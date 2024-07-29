@@ -1,0 +1,97 @@
+<meta>
+    <info type="misc" name="Skins Nine Nine RP" author="The Jose" description="" version="1.3" />
+
+   <file src="alpha.txd" />
+    <file src="alpha.dff" />
+
+   <file src="bfinject.txd" />
+    <file src="bfinject.dff" />
+
+   <file src="blistac.txd" />
+    <file src="blistac.dff" />
+
+   <file src="bobcat.txd" />
+    <file src="bobcat.dff" />
+
+   <file src="buccanee.txd" />
+    <file src="buccanee.dff" />
+
+   <file src="buffalo.txd" />
+    <file src="buffalo.dff" />
+
+   <file src="elegant.txd" />
+    <file src="elegant.dff" />
+
+   <file src="elegy.txd" />
+    <file src="elegy.dff" />
+
+   <file src="farmtr1.txd" />
+    <file src="farmtr1.dff" />
+
+   <file src="flash.txd" />
+    <file src="flash.dff" />
+
+   <file src="huntley.txd" />
+    <file src="huntley.dff" />
+
+   <file src="landstalker.txd" />
+    <file src="landstalker.dff" />
+
+   <file src="perennial.txd" />
+    <file src="perennial.dff" />
+
+   <file src="rancher.txd" />
+    <file src="rancher.dff" />
+
+   <file src="regina.txd" />
+    <file src="regina.dff" />
+
+   <file src="sandking.txd" />
+    <file src="sandking.dff" />
+
+   <file src="solair.txd" />
+    <file src="solair.dff" />
+
+   <file src="sultan.txd" />
+    <file src="sultan.dff" />
+
+   <file src="tractor.txd" />
+    <file src="tractor.dff" />
+
+   <file src="zr350.txd" />
+    <file src="zr350.dff" />
+
+   <file src="pizzaboy.txd" />
+    <file src="pizzaboy.dff" />
+
+   <file src="cropdust.txd" />
+    <file src="cropdust.dff" />
+
+   <file src="skimmer.txd" />
+    <file src="skimmer.dff" />
+
+
+   <file src="combine.txd" />
+    <file src="combine.dff" />
+
+   <file src="pony.txd" />
+    <file src="pony.dff" />
+
+   <file src="yosemite.txd" />
+    <file src="yosemite.dff" />
+
+   <file src="bandito.txd" />
+    <file src="bandito.dff" />
+
+   <file src="reefer.txd" />
+    <file src="reefer.dff" />
+
+   <file src="trash.txd" />
+    <file src="trash.dff" />
+
+   <file src="yankee.txd" />
+    <file src="yankee.dff" />
+
+    <script type="client" src="replace.lua" cache="false" />
+
+</meta>

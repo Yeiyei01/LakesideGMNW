@@ -1,0 +1,25 @@
+<meta>
+	<script src="client.lua" type="client" />
+	<script src="mods.lua" type="server"/>
+	
+	<!-- Mods Veiculos -->
+	<file src="mods/Cars/infernus.txd" download="false" />
+	<file src="mods/Cars/infernus.dff" download="false" />
+	
+	<file src="mods/Cars/admiral.txd" download="false" />
+	<file src="mods/Cars/admiral.dff" download="false" />
+	
+	<!-- Mods Skins -->
+	<file src="mods/Skins/army.txd" download="false" />
+	<file src="mods/Skins/army.dff" download="false" />
+	
+	<file src="mods/Skins/bmori.txd" download="false" />
+	<file src="mods/Skins/bmori.dff" download="false" />
+		
+	<!-- Mods Armas -->
+	<file src="mods/Guns/knife.txd" download="false" />
+	<file src="mods/Guns/knife.dff" download="false" />
+	
+	<file src="mods/Guns/ak47.txd" download="false" />
+	<file src="mods/Guns/ak47.dff" download="false" />
+</meta>

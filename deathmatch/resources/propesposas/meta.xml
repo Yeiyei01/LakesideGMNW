@@ -1,0 +1,10 @@
+<meta>
+<info author="las condes - jarita" version="1.0.0"       name="Cuff Animation"
+type="script"/>
+
+	<oop>true</oop>
+
+    <script src="sourceC.lua" type="client" cache="false" />
+    
+    <min_mta_version client="1.5.8-9.20704"></min_mta_version>
+</meta>

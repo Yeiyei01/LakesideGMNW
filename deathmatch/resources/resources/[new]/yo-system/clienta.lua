@@ -1,0 +1,13 @@
+--local yo = true
+--function dxYoYBarras()
+	--if exports.account:isLoggedIn() then
+		--if yo == true then
+			--dxDrawText("/yo: "..getElementData(getLocalPlayer(), "yo") or "Sin /yo asignado.", 21/1280*sX, 769/800*sY, 435/1280*sX, 561/800*sY, tocolor(0, 0, 0, 255), 1.00, "default", "left", "top", false, false, false, false, false)
+			--dxDrawText("/yo: "..getElementData(getLocalPlayer(), "yo") or "Sin /yo asignado.", 21/1280*sX, 767/800*sY, 435/1280*sX, 559/800*sY, tocolor(0, 0, 0, 255), 1.00, "default", "left", "top", false, false, false, false, false)
+			--dxDrawText("/yo: "..getElementData(getLocalPlayer(), "yo") or "Sin /yo asignado.", 19/1280*sX, 769/800*sY, 433/1280*sX, 561/800*sY, tocolor(0, 0, 0, 255), 1.00, "default", "left", "top", false, false, false, false, false)
+			--dxDrawText("/yo: "..getElementData(getLocalPlayer(), "yo") or "Sin /yo asignado.", 19/1280*sX, 767/800*sY, 433/1280*sX, 559/800*sY, tocolor(0, 0, 0, 255), 1.00, "default", "left", "top", false, false, false, false, false)
+			--dxDrawText("/yo: "..getElementData(getLocalPlayer(), "yo") or "Sin /yo asignado.", 20/1280*sX, 768/800*sY, 434/1280*sX, 560/800*sY, tocolor(255, 255, 255, 255), 1.00, "default", "left", "top", false, false, false, false, false)	
+		--end
+	--end
+--end
+--addEventHandler("onClientRender", root, dxYoYBarras)

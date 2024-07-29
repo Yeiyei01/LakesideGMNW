@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (cxf_payspray_) (1)" radius="17.446888" interior="0" model="3292" lodModel="3365" posX="-95.3125" posY="1121.3047" posZ="18.73438" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (cxf_spraydoor1) (1)" radius="6.6456099" interior="0" model="3294" lodModel="0" posX="-100" posY="1111.4141" posZ="21.64063" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (des_payspint) (1)" radius="12.904518" interior="0" model="3293" lodModel="0" posX="-100" posY="1118.625" posZ="21.92969" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (pkr_chp_med11) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1920" scale="1" doublesided="false" collisions="true" posX="-94.2" posY="1121.4" posZ="23.2" rotX="0" rotY="0" rotZ="358"></object>
+    <removeWorldObject id="removeWorldObject (CJ_Dumpster) (2)" radius="3.5106287" interior="0" model="1345" lodModel="0" posX="-90.60156" posY="1128.2188" posZ="19.46094" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

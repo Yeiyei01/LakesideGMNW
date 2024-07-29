@@ -1,0 +1,46 @@
+<meta>  
+    <info author="GameLight" description="Rob Shop With Map And Model 24/7 For MTA (OWL Gaming)" version="1.0" type="script" />  
+	
+	<script src="sourceC.lua" type="client" protected="true" />
+	<script src="Alarm.lua" type="client" protected="true" />
+	<script src="sourceS.lua" type="server" />
+	<file src="Alarme.mp3" />
+	<file src="Font.ttf" cache="false"/>	
+	
+    <script src='Model/client.lua' type='client' cache="false" />  
+    <file src='Model/file/loja.txd' type='client' cache="false" />  
+    <file src='Model/file/loja.dff' type='client' cache="false" />  
+    <file src='Model/file/loja.col' type='client' cache="false" />
+    <file src='Model/file/ext.txd' type='client' cache="false" />  
+    <file src='Model/file/ext.dff' type='client' cache="false" />  
+    <file src='Model/file/ext.col' type='client' cache="false" />
+    <file src='Model/file/post.txd' type='client' cache="false" />  
+    <file src='Model/file/post.dff' type='client' cache="false" />  
+    <file src='Model/file/post.col' type='client' cache="false" />
+    <file src='Model/file/counter.txd' type='client' cache="false" />  
+    <file src='Model/file/counter.dff' type='client' cache="false" />  
+    <file src='Model/file/counter.col' type='client' cache="false" />
+    <file src='Model/file/fridge.txd' type='client' cache="false" />  
+    <file src='Model/file/fridge.dff' type='client' cache="false" />  
+    <file src='Model/file/fridge.col' type='client' cache="false" />
+    <file src='Model/file/door.txd' type='client' cache="false" />  
+    <file src='Model/file/door.dff' type='client' cache="false" />  
+    <file src='Model/file/door.col' type='client' cache="false" />
+	
+	<oop>true</oop>
+    <info type="map" version="1.0.0"></info>
+    <map src="Map/map_shop.map" dimension="0"></map>
+    <settings>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.008 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="12:0"></setting>
+    </settings>
+    <script src="Map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="Map/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

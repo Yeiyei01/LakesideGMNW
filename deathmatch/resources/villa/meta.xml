@@ -1,0 +1,9 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+    <file src="HOUSE8.txd" />
+    <file src="HOUSE8.dff" />
+    <file src="HOUSE8.col" />
+    <map src="HOUSE-8.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

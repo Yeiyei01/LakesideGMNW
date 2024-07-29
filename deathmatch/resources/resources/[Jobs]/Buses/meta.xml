@@ -1,0 +1,8 @@
+<meta>
+<info author="ss" description="Objects" version="1.0" type="script" />
+<script src="client.lua" type="client" cache="false"/>
+
+<file src="topfun.txd" type="client"/>
+<file src="topfun.dff" type="client"/>
+
+</meta>

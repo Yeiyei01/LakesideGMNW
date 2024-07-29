@@ -1,0 +1,21 @@
+* Mod feito pelo Takayo * 
+
+Contatos: 
+
+Twitter: @Takayo28034536
+Discord: Takayo#7014
+
+Minha loja: https://discord.gg/ahqaHQpqpf
+
+Verção: 1.0
+
+Localização no meu shop
+
+Para desativar o mapa da fazenda retire os seguintes arquivos:
+
+mapEditorScriptingExtension_c
+mapEditorScriptingExtension_s
+fazenda.map
+
+Lembre de retira-los da script META.
+

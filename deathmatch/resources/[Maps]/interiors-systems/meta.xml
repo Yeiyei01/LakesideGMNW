@@ -1,0 +1,74 @@
+<meta>
+    <oop>true</oop>
+    <info type="map" version="1.0.0"></info>
+
+    <script src="c_createObject.lua" type="client"/>
+    <script src="s_cleanup.lua" type="server" />
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client"></script>
+
+    <script src="s_gridsupport.lua" type="server"/>
+    <script src="c_gridsupport.lua" type="client"/>
+    <export function="restoreSA" type="client" />
+
+    <map src="AirControl/NRP-Int-AirControl.map" dimension="0"></map>
+
+    <map src="Banks/NRP-Int-BankLS.map" dimension="0"></map>
+    <map src="Banks/NRP-Int-BankRC.map" dimension="0"></map>
+
+    <map src="CityHalls/NRP-Int-Blueberry.map" dimension="0"></map>
+    <map src="CityHalls/NRP-Int-FortCarson.map" dimension="0"></map>
+    <map src="CityHalls/NRP-Int-Montgomery.map" dimension="0"></map>
+    <map src="CityHalls/NRP-Int-Office.map" dimension="0"></map>
+
+    <map src="Commissioner/NRP-Int-FirstFloor.map" dimension="0"></map>
+    <map src="Commissioner/NRP-Int-Office.map" dimension="0"></map>
+    <map src="Commissioner/NRP-Int-Parking.map" dimension="0"></map>
+    <map src="Commissioner/NRP-Int-SecondFloor.map" dimension="0"></map>
+
+    <map src="Court/NRP-Int-Basement.map" dimension="0"></map>
+    <map src="Court/NRP-Int-CellsSecondRoom.map" dimension="0"></map>
+    <map src="Court/NRP-Int-Executions.map" dimension="0"></map>
+    <map src="Court/NRP-Int-FirstDispatch.map" dimension="0"></map>
+    <map src="Court/NRP-Int-FirstRoom.map" dimension="0"></map>
+    <map src="Court/NRP-Int-Lobby.map" dimension="0"></map>
+    <map src="Court/NRP-Int-SecondDispatch.map" dimension="0"></map>
+    <map src="Court/NRP-Int-SecondRoom.map" dimension="0"></map>
+    <map src="Court/NRP-Int-ThirdDispatch.map" dimension="0"></map>
+    <map src="Court/NRP-Int-ThirdRoom.map" dimension="0"></map>
+
+    <map src="Dealership/NRP-Int-Office.map" dimension="0"></map>
+
+    <map src="DMV/NRP-Int-Office.map" dimension="0"></map>
+
+    <map src="DrugsFabric/Fabric.map" dimension="0"></map>
+
+    <map src="FireStation/NRP-Int-FireStation.map" dimension="70"></map>
+    <map src="FireStation/NRP-Int-BigStation.map" dimension="70"></map>
+
+    <map src="Hospital/NRP-Int-Hospital.map" dimension="70"></map>
+    <map src="Hospital/NRP-Int-Morgue.map" dimension="70"></map>
+    <map src="Hospital/NRP-Int-NewHospital.map" dimension="70"></map>
+
+    <map src="House/NRP-Int-House.map" dimension="70"></map>
+
+    <map src="Others/NRP-Int-FixBar.map" dimension="70"></map>
+    <map src="Others/NRP-Int-FixDiner.map" dimension="70"></map>
+    <map src="Others/NRP-Int-Hardware.map" dimension="70"></map>
+    <map src="Others/NRP-Int-Kitchen.map" dimension="70"></map>
+
+    <map src="Prision/NRP-Int-Prision.map" dimension="70"></map>
+
+    <map src="SEB/NRP-Int-SEB.map" dimension="70"></map>
+
+    <map src="SheriffStation/NRP-Int-SheriffStation.map" dimension="70"></map> 
+
+    <map src="Solaris/NRP-Int-Solaris.map" dimension="70"></map>
+
+    <map src="TeleVision/NRP-Int-Blueberry.map" dimension="0"></map>
+    <map src="TeleVision/NRP-Int-FirstOffice.map" dimension="0"></map>
+    <map src="TeleVision/NRP-Int-Palomino.map" dimension="0"></map>
+    <map src="TeleVision/NRP-Int-SecondOffice.map" dimension="0"></map>
+
+    <map src="Workshop/NRP-Int-Workshop.map" dimension="70"></map>
+</meta>

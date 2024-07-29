@@ -1,0 +1,6 @@
+<meta>
+    <info description="Enkanet Açlık Sistemi" version="1.0" author="Enkanet" type="script" />
+
+	<script src="client.lua" cache="false" type="client" />
+	<script src="server.lua" type="server" />
+</meta>

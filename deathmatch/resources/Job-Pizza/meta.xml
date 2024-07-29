@@ -1,0 +1,6 @@
+<meta>
+    <info author="GameLight" name="Job Pizza" description="Job Pizza For MTA (OWL Gaming) By Game Light" type="script" version="1.0.0" />
+	
+    <script src="pizza_s.lua" type="server" />
+	<script src="pizza_c.lua" type="client" />
+</meta>

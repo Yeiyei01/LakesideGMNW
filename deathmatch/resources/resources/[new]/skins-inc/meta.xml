@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="The Jose" type="misc" name="Skins Nine Nine" description="Skins Mujeres" />
+     <script src="script.lua" type="client" />
+
+     <file src="Seguridad.txd" />
+     <file src="Seguridad.dff" />
+
+     <file src="directorio.txd" />
+     <file src="directorio.dff" />
+
+     <file src="tactico.txd" />
+     <file src="tactico.dff" />
+
+</meta>

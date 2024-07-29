@@ -1,0 +1,29 @@
+<map edf:definitions="editor_main">
+    <object id="object (bar_gatebar01) (1)" breakable="true" interior="0" alpha="255" model="966" doublesided="false" scale="1" dimension="0" posX="1070.8" posY="1358.3" posZ="9.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (1)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1071.7" posY="1358.3" posZ="9.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (2)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1063.1" posY="1358.3" posZ="9.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fenceshit3) (1)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1060.6" posY="1303.1" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (2)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1067" posY="1303.1" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (5)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1087.8" posY="1303.1" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (6)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1303.1" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (gatehouse2_SFSe) (1)" breakable="true" interior="0" alpha="255" model="10832" doublesided="false" scale="1" dimension="0" posX="1092.6" posY="1297.1" posZ="11.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fenceshit3) (8)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1228.5" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (9)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1233" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (10)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1237.5" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (11)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1242" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (12)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1246.5" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (13)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1251" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (14)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1255.5" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (15)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1260" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (16)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1264.5" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (17)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1269" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (18)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1273.5" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (19)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1278" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (20)" breakable="true" interior="0" alpha="255" model="983" doublesided="false" scale="1" dimension="0" posX="1094.2" posY="1282.5" posZ="10.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (aw_streettree3) (1)" breakable="true" interior="0" alpha="255" model="737" doublesided="false" scale="1" dimension="0" posX="1091.1" posY="1282.6" posZ="9.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (aw_streettree3) (2)" breakable="true" interior="0" alpha="255" model="737" doublesided="false" scale="1" dimension="0" posX="1091.1" posY="1269" posZ="9.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (aw_streettree3) (3)" breakable="true" interior="0" alpha="255" model="737" doublesided="false" scale="1" dimension="0" posX="1091.1" posY="1255.5" posZ="9.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (aw_streettree3) (4)" breakable="true" interior="0" alpha="255" model="737" doublesided="false" scale="1" dimension="0" posX="1091.1" posY="1242" posZ="9.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (aw_streettree3) (5)" breakable="true" interior="0" alpha="255" model="737" doublesided="false" scale="1" dimension="0" posX="1091.1" posY="1228.5" posZ="9.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Sfse_hublockup) (1)" breakable="true" interior="0" alpha="255" model="11326" doublesided="false" scale="1" dimension="0" posX="1060.7" posY="1227.3" posZ="12.2" rotX="0" rotY="0" rotZ="0"></object>
+</map>

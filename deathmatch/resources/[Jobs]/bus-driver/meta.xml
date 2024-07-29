@@ -1,0 +1,44 @@
+<meta>
+	<min_mta_version client="1.3.0-9.04431" />
+	<oop>true</oop>
+	<script type="client" src="client/gate-c.lua" cache="false" />
+	<script type="client" src="client/client.lua" cache="false" />
+	<script type="client" src="client/door.lua" cache="false" />
+	<script type="client" src="client/mainmenu.lua" cache="false" />
+	<script type="client" src="client/util.lua" cache="false" />
+	<script type="server" src="server/gate.lua" />
+	<script type="server" src="server/server.lua" />
+	<script type="server" src="server/routeindex.lua" />
+	<script type="shared" src="shared/shared.lua" />
+	<file src="images/texture_replace.fx" />
+	<file src="images/431/12.png" />
+	<file src="images/431/65.png" />
+	<file src="images/431/74.png" />
+	<file src="images/431/95.png" />
+	<file src="images/431/240.png" />
+	<file src="images/431/38.png" />
+	<file src="images/431/53.png" />
+	<file src="images/431/208.png" />
+	<file src="images/431/222.png" />
+	<file src="images/431/314.png" />
+	<file src="images/459/6.png" />
+	<file src="images/459/45.png" />
+	<file src="images/459/88.png" />
+	<file src="images/459/33.png" />
+	<file src="images/459/66.png" />
+	<file src="images/459/81.png" />
+	<file src="images/437/m1.png" />
+	<file src="images/437/m2.png" />
+	<file src="images/437/m3.png" />
+	<file src="images/437/m4.png" />
+	<file src="music/431/open.wav" />
+	<file src="music/431/close.wav" />
+	<file src="music/437/open.wav" />
+	<file src="music/437/close.wav" />
+	<file src="music/459/open.wav" />
+	<file src="music/459/close.wav" />
+	<file src="fonts/Exo2.otf" />
+	
+
+	
+</meta>
